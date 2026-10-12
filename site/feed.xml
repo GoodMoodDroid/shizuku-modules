@@ -3,14 +3,42 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-10-11T09:22:03.056Z</updated>
+  <updated>2026-10-12T09:51:22.918Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>xav-ie/Tetherbug</title>
+      <link href="https://github.com/xav-ie/Tetherbug"/>
+      <id>https://github.com/xav-ie/Tetherbug</id>
+      <updated>2026-10-12T01:55:54.000Z</updated>
+      <summary>Make your Android hotspot behave like an iPhone's on macOS: auto-enable over Bluetooth LE, Personal Hotspot link icon, metered connection.</summary>
+    </entry>
+    <entry>
+      <title>hahahaxu1/AppRotate</title>
+      <link href="https://github.com/hahahaxu1/AppRotate"/>
+      <id>https://github.com/hahahaxu1/AppRotate</id>
+      <updated>2026-10-12T06:22:52.000Z</updated>
+      <summary>可控制应用旋转方向的App</summary>
+    </entry>
+    <entry>
+      <title>probecat/airplane-scheduler-app</title>
+      <link href="https://github.com/probecat/airplane-scheduler-app"/>
+      <id>https://github.com/probecat/airplane-scheduler-app</id>
+      <updated>2026-10-12T05:54:52.000Z</updated>
+      <summary>An app that turns airplane mode on and off on a schedule</summary>
+    </entry>
+    <entry>
+      <title>Shishir-ip/NetBlocker</title>
+      <link href="https://github.com/Shishir-ip/NetBlocker"/>
+      <id>https://github.com/Shishir-ip/NetBlocker</id>
+      <updated>2026-10-11T13:25:54.000Z</updated>
+      <summary>Still in processing.....</summary>
+    </entry>
     <entry>
       <title>usamaiqb/network-scanner</title>
       <link href="https://github.com/usamaiqb/network-scanner"/>
       <id>https://github.com/usamaiqb/network-scanner</id>
-      <updated>2026-10-10T17:14:00.000Z</updated>
+      <updated>2026-10-12T09:04:15.000Z</updated>
       <summary>Fast, privacy-focused network scanner to discover devices on your local network</summary>
     </entry>
     <entry>
@@ -19,6 +47,13 @@
       <id>https://github.com/gaoyilun/adbSwitch</id>
       <updated>2026-10-10T16:25:41.000Z</updated>
       <summary>通过 Shizuku / root 真实改写系统调试状态的快捷开关工具，支持 USB 调试、无线调试与开发者选项的开关，可从桌面快捷方式或通知磁贴一键操作；关闭调试后会常驻一条通知，点一下即可恢复，支持「实时动态」状态栏胶囊。A shortcut tool that truly modifies the system debug status toggle via Shizuku/root, supporting USB debugging, wireless debugging, and Developer Options toggles.</summary>
+    </entry>
+    <entry>
+      <title>chr243/Verdroid</title>
+      <link href="https://github.com/chr243/Verdroid"/>
+      <id>https://github.com/chr243/Verdroid</id>
+      <updated>2026-10-11T17:53:23.000Z</updated>
+      <summary>On-device AI agent for Android, tuned for free OpenRouter/Kilo models with automatic model/key fallback and rate-limit recovery. Tools: web search/fetch over HTTP, bash/Python in Termux (optional headless Chromium + Selenium), Shizuku/rish shell, Accessibility, ebook translation, Documents/Verdroid,</summary>
     </entry>
     <entry>
       <title>HappyLadySauceM/GazeKeep</title>
@@ -31,22 +66,15 @@
       <title>arusaha/pocket-flight</title>
       <link href="https://github.com/arusaha/pocket-flight"/>
       <id>https://github.com/arusaha/pocket-flight</id>
-      <updated>2026-10-11T02:21:59.000Z</updated>
-      <summary>Automatic airplane mode for Android walks, runs and hikes: reduce cellular radio transmissions (RF EMF) while locked in your pocket; reconnect on unlock. Wi-Fi/Bluetooth exceptions. Shizuku, no root.</summary>
+      <updated>2026-10-12T05:53:43.000Z</updated>
+      <summary>Pocket Flight: Auto Airplane. Automatic airplane mode for Android walks, runs and hikes: reduce cellular radio transmissions (RF EMF) while locked in your pocket; reconnect on unlock. Wi-Fi/Bluetooth exceptions. Shizuku, no root.</summary>
     </entry>
     <entry>
       <title>arusaha/wrist-flight</title>
       <link href="https://github.com/arusaha/wrist-flight"/>
       <id>https://github.com/arusaha/wrist-flight</id>
-      <updated>2026-10-11T02:27:54.000Z</updated>
-      <summary>Automatic airplane mode for Galaxy Watch and Wear OS, for all-day wear and bedtime. On while worn; off when removed or charging. For people who prefer fewer wireless transmissions. Shizuku, no root required.</summary>
-    </entry>
-    <entry>
-      <title>chr243/Verdroid</title>
-      <link href="https://github.com/chr243/Verdroid"/>
-      <id>https://github.com/chr243/Verdroid</id>
-      <updated>2026-10-11T06:20:32.000Z</updated>
-      <summary>On-device AI agent for Android, tuned for free OpenRouter/Kilo models with automatic model/key fallback and rate-limit recovery. Tools: web search/fetch over HTTP, bash/Python in Termux (optional headless Chromium + Selenium), Shizuku/rish shell, Accessibility, ebook translation, Documents/Verdroid,</summary>
+      <updated>2026-10-12T05:51:05.000Z</updated>
+      <summary>Wrist Flight: Auto Airplane automates airplane mode on Galaxy Watch and Wear OS. On while worn; off when removed or charging. For all-day wear and bedtime. Sideloadable APK; Shizuku required, no root.</summary>
     </entry>
     <entry>
       <title>leolionart/AADisplay-DuoScreen</title>
@@ -59,8 +87,8 @@
       <title>shepard639/AdaptiveHz</title>
       <link href="https://github.com/shepard639/AdaptiveHz"/>
       <id>https://github.com/shepard639/AdaptiveHz</id>
-      <updated>2026-10-10T16:16:37.000Z</updated>
-      <summary>Adaptive refresh rate &amp; 120Hz power saving bypass for Samsung Galaxy devices</summary>
+      <updated>2026-10-11T14:44:50.000Z</updated>
+      <summary>Adaptive refresh rate, 120Hz in power saving mode &amp; battery optimizer for Samsung Galaxy</summary>
     </entry>
     <entry>
       <title>HSSkyBoy/AppMarket</title>
@@ -140,6 +168,13 @@
       <summary>Activity+ for Android: which app is responsible, and what to do about it. No internet permission.</summary>
     </entry>
     <entry>
+      <title>BUGJI/IzukiJS</title>
+      <link href="https://github.com/BUGJI/IzukiJS"/>
+      <id>https://github.com/BUGJI/IzukiJS</id>
+      <updated>2026-10-11T14:56:12.000Z</updated>
+      <summary>Android 自动化脚本运行时 · 用 QuickJS 写脚本，无障碍 / Shizuku / Root / 蓝牙 HID 多后端驱动设备，内置找图找色、OCR 与 AI Agent 脱困</summary>
+    </entry>
+    <entry>
       <title>alen123222/DSH-mobile-IDE-withTermux</title>
       <link href="https://github.com/alen123222/DSH-mobile-IDE-withTermux"/>
       <id>https://github.com/alen123222/DSH-mobile-IDE-withTermux</id>
@@ -150,7 +185,7 @@
       <title>AppInsightLabs/AppInsight</title>
       <link href="https://github.com/AppInsightLabs/AppInsight"/>
       <id>https://github.com/AppInsightLabs/AppInsight</id>
-      <updated>2026-10-10T02:07:20.000Z</updated>
+      <updated>2026-10-11T22:23:59.000Z</updated>
       <summary>See and monitor when apps access the Mic, Camera, and Location</summary>
     </entry>
     <entry>
@@ -159,13 +194,6 @@
       <id>https://github.com/Azx8788/AutoClicker</id>
       <updated>2026-10-08T12:37:35.000Z</updated>
       <summary>轻量 Android 自动点击器：多点独立连点 + 拖动定位 + 悬浮窗控制 + 四层紧急停止 + Shizuku 一键授权（无需 Root）</summary>
-    </entry>
-    <entry>
-      <title>BUGJI/IzukiJS</title>
-      <link href="https://github.com/BUGJI/IzukiJS"/>
-      <id>https://github.com/BUGJI/IzukiJS</id>
-      <updated>2026-10-08T19:10:19.000Z</updated>
-      <summary>Android 自动化脚本运行时 · 用 QuickJS 写脚本，无障碍 / Shizuku / Root / 蓝牙 HID 多后端驱动设备，内置找图找色、OCR 与 AI Agent 脱困</summary>
     </entry>
     <entry>
       <title>capitan0n/droynis</title>
@@ -185,35 +213,7 @@
       <title>ReSerendipity/Android-IconAutoArrange</title>
       <link href="https://github.com/ReSerendipity/Android-IconAutoArrange"/>
       <id>https://github.com/ReSerendipity/Android-IconAutoArrange</id>
-      <updated>2026-10-10T04:30:36.000Z</updated>
+      <updated>2026-10-12T05:08:42.000Z</updated>
       <summary>安卓桌面图标自动整理 PoC：走 Launcher3 官方布局通道，免 root 一键分类整理（可预览、可回滚）。面向 Android 用户与开发者，poc/build.sh 构建 APK。</summary>
-    </entry>
-    <entry>
-      <title>The-gold-of-wind233/LocalShare</title>
-      <link href="https://github.com/The-gold-of-wind233/LocalShare"/>
-      <id>https://github.com/The-gold-of-wind233/LocalShare</id>
-      <updated>2026-10-08T15:53:22.000Z</updated>
-      <summary></summary>
-    </entry>
-    <entry>
-      <title>cypressincloud/Tally</title>
-      <link href="https://github.com/cypressincloud/Tally"/>
-      <id>https://github.com/cypressincloud/Tally</id>
-      <updated>2026-10-07T09:30:12.000Z</updated>
-      <summary></summary>
-    </entry>
-    <entry>
-      <title>Linwan-yn/Lin-Shizuku</title>
-      <link href="https://github.com/Linwan-yn/Lin-Shizuku"/>
-      <id>https://github.com/Linwan-yn/Lin-Shizuku</id>
-      <updated>2026-10-08T08:35:46.000Z</updated>
-      <summary>基于 Shizuku 13.5.4 + Sui 深度定制的 Android 授权管理工具（无线调试自启 / TCP 保活 / 刷新率锁定 / 进程守护）</summary>
-    </entry>
-    <entry>
-      <title>meta-tabchen/MoonCast</title>
-      <link href="https://github.com/meta-tabchen/MoonCast"/>
-      <id>https://github.com/meta-tabchen/MoonCast</id>
-      <updated>2026-10-11T02:59:25.000Z</updated>
-      <summary>Android → Moonlight over LAN. Smart cinema, app displays, original-file playback, optional input and experimental multi-receiver/panel-off casting.</summary>
     </entry>
 </feed>
