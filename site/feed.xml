@@ -3,14 +3,70 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-10-12T09:51:22.918Z</updated>
+  <updated>2026-10-13T09:48:06.389Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>Batestinha/kdeconnect-android-shizuku-pre-fork-20261012</title>
+      <link href="https://github.com/Batestinha/kdeconnect-android-shizuku-pre-fork-20261012"/>
+      <id>https://github.com/Batestinha/kdeconnect-android-shizuku-pre-fork-20261012</id>
+      <updated>2026-09-10T11:56:08.000Z</updated>
+      <summary>Preserved repository before the 2026-10-12 fork migration. Active project: https://github.com/Batestinha/kdeconnect-android-shizuku</summary>
+    </entry>
+    <entry>
+      <title>lejw0925/android-virtual-screen</title>
+      <link href="https://github.com/lejw0925/android-virtual-screen"/>
+      <id>https://github.com/lejw0925/android-virtual-screen</id>
+      <updated>2026-10-12T19:15:15.000Z</updated>
+      <summary>An independent Android screen for AI agents, with authenticated MCP, live PiP and user takeover.</summary>
+    </entry>
+    <entry>
+      <title>Crisdapu21/mando-toques</title>
+      <link href="https://github.com/Crisdapu21/mando-toques"/>
+      <id>https://github.com/Crisdapu21/mando-toques</id>
+      <updated>2026-10-13T06:30:52.000Z</updated>
+      <summary></summary>
+    </entry>
+    <entry>
+      <title>gitWRLD999/ghost-display</title>
+      <link href="https://github.com/gitWRLD999/ghost-display"/>
+      <id>https://github.com/gitWRLD999/ghost-display</id>
+      <updated>2026-10-12T22:57:57.000Z</updated>
+      <summary>A second Android screen for agents: real apps, screenshot-driven input, and an independent Shizuku display. Android 16 preview.</summary>
+    </entry>
+    <entry>
+      <title>idklckckkdckf/Game-Booster</title>
+      <link href="https://github.com/idklckckkdckf/Game-Booster"/>
+      <id>https://github.com/idklckckkdckf/Game-Booster</id>
+      <updated>2026-10-13T06:30:38.000Z</updated>
+      <summary>Boost your PC gaming performance instantly with free, automated system optimization, memory freeing, and process prioritization for smoother, faster gameplay.</summary>
+    </entry>
+    <entry>
+      <title>Pha4tom/DroidLens</title>
+      <link href="https://github.com/Pha4tom/DroidLens"/>
+      <id>https://github.com/Pha4tom/DroidLens</id>
+      <updated>2026-10-12T19:22:41.000Z</updated>
+      <summary>On-device APK analyzer and decompiler for Android — custom AXML/ARSC/DEX parsers, on-device jadx, and a Shizuku-powered intent fuzzer. No root, no PC, no Termux.</summary>
+    </entry>
+    <entry>
+      <title>shiqi123765/AutoGLM-Android-ChatUI</title>
+      <link href="https://github.com/shiqi123765/AutoGLM-Android-ChatUI"/>
+      <id>https://github.com/shiqi123765/AutoGLM-Android-ChatUI</id>
+      <updated>2026-10-12T12:58:50.000Z</updated>
+      <summary>基于 Luokavin/AutoGLM-For-Android (MIT) 的对话式 UI 改版：豆包风格气泡 + Markdown 渲染 + 侧边 Agent 执行面板 + 一键深浅色（93 色键浅深对齐）；并修复 Android 14+ 设置页崩溃、深浅色切换导致 Activity 无限重建（黑白闪）、软键盘遮挡输入栏</summary>
+    </entry>
+    <entry>
+      <title>vanlinh0392-art/BatteryGuard</title>
+      <link href="https://github.com/vanlinh0392-art/BatteryGuard"/>
+      <id>https://github.com/vanlinh0392-art/BatteryGuard</id>
+      <updated>2026-10-13T03:02:01.000Z</updated>
+      <summary></summary>
+    </entry>
     <entry>
       <title>xav-ie/Tetherbug</title>
       <link href="https://github.com/xav-ie/Tetherbug"/>
       <id>https://github.com/xav-ie/Tetherbug</id>
-      <updated>2026-10-12T01:55:54.000Z</updated>
+      <updated>2026-10-12T19:59:46.000Z</updated>
       <summary>Make your Android hotspot behave like an iPhone's on macOS: auto-enable over Bluetooth LE, Personal Hotspot link icon, metered connection.</summary>
     </entry>
     <entry>
@@ -38,8 +94,15 @@
       <title>usamaiqb/network-scanner</title>
       <link href="https://github.com/usamaiqb/network-scanner"/>
       <id>https://github.com/usamaiqb/network-scanner</id>
-      <updated>2026-10-12T09:04:15.000Z</updated>
+      <updated>2026-10-13T09:00:28.000Z</updated>
       <summary>Fast, privacy-focused network scanner to discover devices on your local network</summary>
+    </entry>
+    <entry>
+      <title>chr243/Verdroid</title>
+      <link href="https://github.com/chr243/Verdroid"/>
+      <id>https://github.com/chr243/Verdroid</id>
+      <updated>2026-10-13T09:37:42.000Z</updated>
+      <summary>On-device AI agent for Android, tuned for free OpenRouter/Kilo models with automatic model/key fallback and rate-limit recovery. Tools: web search/fetch over HTTP, bash/Python in Termux (optional headless Chromium + Selenium), Shizuku/rish shell, Accessibility, ebook translation, Documents/Verdroid,</summary>
     </entry>
     <entry>
       <title>gaoyilun/adbSwitch</title>
@@ -47,13 +110,6 @@
       <id>https://github.com/gaoyilun/adbSwitch</id>
       <updated>2026-10-10T16:25:41.000Z</updated>
       <summary>通过 Shizuku / root 真实改写系统调试状态的快捷开关工具，支持 USB 调试、无线调试与开发者选项的开关，可从桌面快捷方式或通知磁贴一键操作；关闭调试后会常驻一条通知，点一下即可恢复，支持「实时动态」状态栏胶囊。A shortcut tool that truly modifies the system debug status toggle via Shizuku/root, supporting USB debugging, wireless debugging, and Developer Options toggles.</summary>
-    </entry>
-    <entry>
-      <title>chr243/Verdroid</title>
-      <link href="https://github.com/chr243/Verdroid"/>
-      <id>https://github.com/chr243/Verdroid</id>
-      <updated>2026-10-11T17:53:23.000Z</updated>
-      <summary>On-device AI agent for Android, tuned for free OpenRouter/Kilo models with automatic model/key fallback and rate-limit recovery. Tools: web search/fetch over HTTP, bash/Python in Termux (optional headless Chromium + Selenium), Shizuku/rish shell, Accessibility, ebook translation, Documents/Verdroid,</summary>
     </entry>
     <entry>
       <title>HappyLadySauceM/GazeKeep</title>
@@ -112,18 +168,18 @@
       <summary>元气骑士 Android / Python 本地存档工具。Android 默认原生 Root，可选 Shizuku Root；文件修改测试：2026-10-09（合成文件）。真实游戏效果及反馈机型兼容性待复测，不保证实际可用。</summary>
     </entry>
     <entry>
+      <title>guzhou079-arch/deepseek-harness-android</title>
+      <link href="https://github.com/guzhou079-arch/deepseek-harness-android"/>
+      <id>https://github.com/guzhou079-arch/deepseek-harness-android</id>
+      <updated>2026-10-13T04:52:04.000Z</updated>
+      <summary>把 DeepSeek Harness 打包成能直接装的安卓 APK：不用 Termux、不用 root、不用配环境，21 款技能随包；它还能在手机上自己编译、打包、签名、发布。Android APK for DeepSeek Harness — no Termux, no root, no PC; it builds, signs and releases itself on the phone.</summary>
+    </entry>
+    <entry>
       <title>yijiacloud/shizuku-next</title>
       <link href="https://github.com/yijiacloud/shizuku-next"/>
       <id>https://github.com/yijiacloud/shizuku-next</id>
       <updated>2026-09-06T11:23:25.000Z</updated>
       <summary>Shizuku Next - 增强版 Shizuku：悬浮窗配对 + Shell终端 + 模块系统</summary>
-    </entry>
-    <entry>
-      <title>guzhou079-arch/deepseek-harness-android</title>
-      <link href="https://github.com/guzhou079-arch/deepseek-harness-android"/>
-      <id>https://github.com/guzhou079-arch/deepseek-harness-android</id>
-      <updated>2026-10-10T00:43:53.000Z</updated>
-      <summary>Packages the DeepSeek Harness agent runtime and 21 bundled skills into an APK with no Termux or root needed. Shizuku powers the privileged shell, app control and virtual-display automation; the app can also build and sign its own APK on-device.</summary>
     </entry>
     <entry>
       <title>lilining308-prog/lock-escape</title>
@@ -159,61 +215,5 @@
       <id>https://github.com/bl3xand/APK-Toolbox</id>
       <updated>2026-10-10T15:58:36.000Z</updated>
       <summary>Track, clone, install and merge Android apps right on the phone: updates straight from GitHub, F-Droid and other sources, second copies of apps, split APK installer, APKS export and split merging. No root.</summary>
-    </entry>
-    <entry>
-      <title>robbyczgw-cla/activity-plus-android</title>
-      <link href="https://github.com/robbyczgw-cla/activity-plus-android"/>
-      <id>https://github.com/robbyczgw-cla/activity-plus-android</id>
-      <updated>2026-10-10T14:23:01.000Z</updated>
-      <summary>Activity+ for Android: which app is responsible, and what to do about it. No internet permission.</summary>
-    </entry>
-    <entry>
-      <title>BUGJI/IzukiJS</title>
-      <link href="https://github.com/BUGJI/IzukiJS"/>
-      <id>https://github.com/BUGJI/IzukiJS</id>
-      <updated>2026-10-11T14:56:12.000Z</updated>
-      <summary>Android 自动化脚本运行时 · 用 QuickJS 写脚本，无障碍 / Shizuku / Root / 蓝牙 HID 多后端驱动设备，内置找图找色、OCR 与 AI Agent 脱困</summary>
-    </entry>
-    <entry>
-      <title>alen123222/DSH-mobile-IDE-withTermux</title>
-      <link href="https://github.com/alen123222/DSH-mobile-IDE-withTermux"/>
-      <id>https://github.com/alen123222/DSH-mobile-IDE-withTermux</id>
-      <updated>2026-10-10T00:55:52.000Z</updated>
-      <summary>Android 原生编程助手：完整 Termux 环境、DeepSeek Harness Android arm64 适配、多工作区与自定义 API 预设。</summary>
-    </entry>
-    <entry>
-      <title>AppInsightLabs/AppInsight</title>
-      <link href="https://github.com/AppInsightLabs/AppInsight"/>
-      <id>https://github.com/AppInsightLabs/AppInsight</id>
-      <updated>2026-10-11T22:23:59.000Z</updated>
-      <summary>See and monitor when apps access the Mic, Camera, and Location</summary>
-    </entry>
-    <entry>
-      <title>Azx8788/AutoClicker</title>
-      <link href="https://github.com/Azx8788/AutoClicker"/>
-      <id>https://github.com/Azx8788/AutoClicker</id>
-      <updated>2026-10-08T12:37:35.000Z</updated>
-      <summary>轻量 Android 自动点击器：多点独立连点 + 拖动定位 + 悬浮窗控制 + 四层紧急停止 + Shizuku 一键授权（无需 Root）</summary>
-    </entry>
-    <entry>
-      <title>capitan0n/droynis</title>
-      <link href="https://github.com/capitan0n/droynis"/>
-      <id>https://github.com/capitan0n/droynis</id>
-      <updated>2026-10-09T11:55:22.000Z</updated>
-      <summary>Offline Android security audit tool. 54 read-only checks across multiple privilege levels (base, ADB, Shizuku, root), 0–100 score and saved reports. Privacy-oriented, no internet permission, zero telemetry, fully local.</summary>
-    </entry>
-    <entry>
-      <title>FL8Y/LiteCloner</title>
-      <link href="https://github.com/FL8Y/LiteCloner"/>
-      <id>https://github.com/FL8Y/LiteCloner</id>
-      <updated>2026-10-08T14:31:00.000Z</updated>
-      <summary>Lite Cloner — private beta Android cloning utility.</summary>
-    </entry>
-    <entry>
-      <title>ReSerendipity/Android-IconAutoArrange</title>
-      <link href="https://github.com/ReSerendipity/Android-IconAutoArrange"/>
-      <id>https://github.com/ReSerendipity/Android-IconAutoArrange</id>
-      <updated>2026-10-12T05:08:42.000Z</updated>
-      <summary>安卓桌面图标自动整理 PoC：走 Launcher3 官方布局通道，免 root 一键分类整理（可预览、可回滚）。面向 Android 用户与开发者，poc/build.sh 构建 APK。</summary>
     </entry>
 </feed>
