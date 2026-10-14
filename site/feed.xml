@@ -3,9 +3,79 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-10-13T09:48:06.389Z</updated>
+  <updated>2026-10-14T08:05:01.995Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>ZENINXOP/Hexora</title>
+      <link href="https://github.com/ZENINXOP/Hexora"/>
+      <id>https://github.com/ZENINXOP/Hexora</id>
+      <updated>2026-10-12T20:42:43.000Z</updated>
+      <summary>Dual-pane file manager fork of MP-Manager with archive browsing, built-in editor and APK tools, with Shizuku support for elevated access</summary>
+    </entry>
+    <entry>
+      <title>xUmutKx/BlackOut</title>
+      <link href="https://github.com/xUmutKx/BlackOut"/>
+      <id>https://github.com/xUmutKx/BlackOut</id>
+      <updated>2026-10-13T11:32:26.000Z</updated>
+      <summary>Turns grey dark-mode surfaces into true AMOLED black with per-app color rules and force-dark. Shizuku only enables force-dark; root and LSPosed are needed for full functionality</summary>
+    </entry>
+    <entry>
+      <title>astrovm/crosstune</title>
+      <link href="https://github.com/astrovm/crosstune"/>
+      <id>https://github.com/astrovm/crosstune</id>
+      <updated>2026-10-14T06:13:49.000Z</updated>
+      <summary>Opens any music link in your preferred app with exact match, playlists and synced lyrics; one-tap setup via Shizuku</summary>
+    </entry>
+    <entry>
+      <title>kukirin-ui/Meridian</title>
+      <link href="https://github.com/kukirin-ui/Meridian"/>
+      <id>https://github.com/kukirin-ui/Meridian</id>
+      <updated>2026-10-14T00:07:15.000Z</updated>
+      <summary>Open source Android command deck for Termux: live phone readings, shell recipes, local llama.cpp AI agent mesh, and voice assistant. No account, no server. MIT.</summary>
+    </entry>
+    <entry>
+      <title>nanaoniiiii/sunshine</title>
+      <link href="https://github.com/nanaoniiiii/sunshine"/>
+      <id>https://github.com/nanaoniiiii/sunshine</id>
+      <updated>2026-10-13T21:08:44.000Z</updated>
+      <summary>Sunshine for Android：支持 Moonlight 的 Android 串流主机，提供硬件编码、音频内录与 Shizuku 远程输入。</summary>
+    </entry>
+    <entry>
+      <title>evilqin/opencode-pocket</title>
+      <link href="https://github.com/evilqin/opencode-pocket"/>
+      <id>https://github.com/evilqin/opencode-pocket</id>
+      <updated>2026-10-14T07:07:51.000Z</updated>
+      <summary>把官方 opencode 装进手机的 Android 应用：内置 proot + Ubuntu，免 root / 免 Termux，含原生对话页与设备 Shell 桥</summary>
+    </entry>
+    <entry>
+      <title>IceTeacher/GazeKeep</title>
+      <link href="https://github.com/IceTeacher/GazeKeep"/>
+      <id>https://github.com/IceTeacher/GazeKeep</id>
+      <updated>2026-10-13T15:13:13.000Z</updated>
+      <summary>为缺少系统级注视不熄屏的 Android 设备提供端侧离线注视保亮功能：临近熄屏前短时采样、零网络权限、看不清默认熄屏，支持 LSPosed / Shizuku / 无障碍三种后端与按白名单启用。</summary>
+    </entry>
+    <entry>
+      <title>896kb/ai-usage-companion</title>
+      <link href="https://github.com/896kb/ai-usage-companion"/>
+      <id>https://github.com/896kb/ai-usage-companion</id>
+      <updated>2026-10-13T14:41:40.000Z</updated>
+      <summary>Claude Code usage limits on the Xiaomi 17 Pro's rear display. · Mirror of https://gitlab.com/896kb/ai-usage-companion — issues and merge requests there.</summary>
+    </entry>
+    <entry>
+      <title>right-ward/orpheus</title>
+      <link href="https://github.com/right-ward/orpheus"/>
+      <id>https://github.com/right-ward/orpheus</id>
+      <updated>2026-10-14T00:06:50.000Z</updated>
+      <summary>Preserve your Android environment through destructive system changes.</summary>
+    </entry>
+    <entry>
+      <title>turkdevprodoctions/debloat</title>
+      <link href="https://github.com/turkdevprodoctions/debloat"/>
+      <id>https://github.com/turkdevprodoctions/debloat</id>
+      <updated>2026-10-13T19:25:42.000Z</updated>
+      <summary>Android system app manager powered by Shizuku. Open source, ad-free,</summary>
+    </entry>
     <entry>
       <title>Batestinha/kdeconnect-android-shizuku-pre-fork-20261012</title>
       <link href="https://github.com/Batestinha/kdeconnect-android-shizuku-pre-fork-20261012"/>
@@ -14,10 +84,17 @@
       <summary>Preserved repository before the 2026-10-12 fork migration. Active project: https://github.com/Batestinha/kdeconnect-android-shizuku</summary>
     </entry>
     <entry>
+      <title>gitWRLD999/ghost-display</title>
+      <link href="https://github.com/gitWRLD999/ghost-display"/>
+      <id>https://github.com/gitWRLD999/ghost-display</id>
+      <updated>2026-10-12T22:57:57.000Z</updated>
+      <summary>A second Android screen for agents: real apps, screenshot-driven input, and an independent Shizuku display. Android 16 preview.</summary>
+    </entry>
+    <entry>
       <title>lejw0925/android-virtual-screen</title>
       <link href="https://github.com/lejw0925/android-virtual-screen"/>
       <id>https://github.com/lejw0925/android-virtual-screen</id>
-      <updated>2026-10-12T19:15:15.000Z</updated>
+      <updated>2026-10-14T00:34:11.000Z</updated>
       <summary>An independent Android screen for AI agents, with authenticated MCP, live PiP and user takeover.</summary>
     </entry>
     <entry>
@@ -28,17 +105,10 @@
       <summary></summary>
     </entry>
     <entry>
-      <title>gitWRLD999/ghost-display</title>
-      <link href="https://github.com/gitWRLD999/ghost-display"/>
-      <id>https://github.com/gitWRLD999/ghost-display</id>
-      <updated>2026-10-12T22:57:57.000Z</updated>
-      <summary>A second Android screen for agents: real apps, screenshot-driven input, and an independent Shizuku display. Android 16 preview.</summary>
-    </entry>
-    <entry>
       <title>idklckckkdckf/Game-Booster</title>
       <link href="https://github.com/idklckckkdckf/Game-Booster"/>
       <id>https://github.com/idklckckkdckf/Game-Booster</id>
-      <updated>2026-10-13T06:30:38.000Z</updated>
+      <updated>2026-10-13T15:53:52.000Z</updated>
       <summary>Boost your PC gaming performance instantly with free, automated system optimization, memory freeing, and process prioritization for smoother, faster gameplay.</summary>
     </entry>
     <entry>
@@ -59,7 +129,7 @@
       <title>vanlinh0392-art/BatteryGuard</title>
       <link href="https://github.com/vanlinh0392-art/BatteryGuard"/>
       <id>https://github.com/vanlinh0392-art/BatteryGuard</id>
-      <updated>2026-10-13T03:02:01.000Z</updated>
+      <updated>2026-10-14T01:56:17.000Z</updated>
       <summary></summary>
     </entry>
     <entry>
@@ -101,7 +171,7 @@
       <title>chr243/Verdroid</title>
       <link href="https://github.com/chr243/Verdroid"/>
       <id>https://github.com/chr243/Verdroid</id>
-      <updated>2026-10-13T09:37:42.000Z</updated>
+      <updated>2026-10-14T05:01:06.000Z</updated>
       <summary>On-device AI agent for Android, tuned for free OpenRouter/Kilo models with automatic model/key fallback and rate-limit recovery. Tools: web search/fetch over HTTP, bash/Python in Termux (optional headless Chromium + Selenium), Shizuku/rish shell, Accessibility, ebook translation, Documents/Verdroid,</summary>
     </entry>
     <entry>
@@ -122,7 +192,7 @@
       <title>arusaha/pocket-flight</title>
       <link href="https://github.com/arusaha/pocket-flight"/>
       <id>https://github.com/arusaha/pocket-flight</id>
-      <updated>2026-10-12T05:53:43.000Z</updated>
+      <updated>2026-10-14T01:11:38.000Z</updated>
       <summary>Pocket Flight: Auto Airplane. Automatic airplane mode for Android walks, runs and hikes: reduce cellular radio transmissions (RF EMF) while locked in your pocket; reconnect on unlock. Wi-Fi/Bluetooth exceptions. Shizuku, no root.</summary>
     </entry>
     <entry>
@@ -145,75 +215,5 @@
       <id>https://github.com/shepard639/AdaptiveHz</id>
       <updated>2026-10-11T14:44:50.000Z</updated>
       <summary>Adaptive refresh rate, 120Hz in power saving mode &amp; battery optimizer for Samsung Galaxy</summary>
-    </entry>
-    <entry>
-      <title>HSSkyBoy/AppMarket</title>
-      <link href="https://github.com/HSSkyBoy/AppMarket"/>
-      <id>https://github.com/HSSkyBoy/AppMarket</id>
-      <updated>2026-10-07T13:02:18.000Z</updated>
-      <summary>开源多源的应用商店</summary>
-    </entry>
-    <entry>
-      <title>IstiN/flutter_agent_harness</title>
-      <link href="https://github.com/IstiN/flutter_agent_harness"/>
-      <id>https://github.com/IstiN/flutter_agent_harness</id>
-      <updated>2026-10-10T09:08:13.000Z</updated>
-      <summary>Fa - Factory Agent. Cross-platform AI agent harness for Dart and Flutter — streaming providers, agent loop with tools, session persistence, compaction; backend agent mode: fa behind product Go backends</summary>
-    </entry>
-    <entry>
-      <title>Show-o4210/Soul-Knight-Save-Editor</title>
-      <link href="https://github.com/Show-o4210/Soul-Knight-Save-Editor"/>
-      <id>https://github.com/Show-o4210/Soul-Knight-Save-Editor</id>
-      <updated>2026-10-09T16:53:27.000Z</updated>
-      <summary>元气骑士 Android / Python 本地存档工具。Android 默认原生 Root，可选 Shizuku Root；文件修改测试：2026-10-09（合成文件）。真实游戏效果及反馈机型兼容性待复测，不保证实际可用。</summary>
-    </entry>
-    <entry>
-      <title>guzhou079-arch/deepseek-harness-android</title>
-      <link href="https://github.com/guzhou079-arch/deepseek-harness-android"/>
-      <id>https://github.com/guzhou079-arch/deepseek-harness-android</id>
-      <updated>2026-10-13T04:52:04.000Z</updated>
-      <summary>把 DeepSeek Harness 打包成能直接装的安卓 APK：不用 Termux、不用 root、不用配环境，21 款技能随包；它还能在手机上自己编译、打包、签名、发布。Android APK for DeepSeek Harness — no Termux, no root, no PC; it builds, signs and releases itself on the phone.</summary>
-    </entry>
-    <entry>
-      <title>yijiacloud/shizuku-next</title>
-      <link href="https://github.com/yijiacloud/shizuku-next"/>
-      <id>https://github.com/yijiacloud/shizuku-next</id>
-      <updated>2026-09-06T11:23:25.000Z</updated>
-      <summary>Shizuku Next - 增强版 Shizuku：悬浮窗配对 + Shell终端 + 模块系统</summary>
-    </entry>
-    <entry>
-      <title>lilining308-prog/lock-escape</title>
-      <link href="https://github.com/lilining308-prog/lock-escape"/>
-      <id>https://github.com/lilining308-prog/lock-escape</id>
-      <updated>2026-10-10T11:13:37.000Z</updated>
-      <summary>Android 应急逃生工具：被锁机病毒/无障碍恶意锁屏控制时，物理按键触发全屏拦截，经 Shizuku/root 删除锁机组件。半成品开源项目，GPL-3.0</summary>
-    </entry>
-    <entry>
-      <title>loyality7/headless-android-sdk</title>
-      <link href="https://github.com/loyality7/headless-android-sdk"/>
-      <id>https://github.com/loyality7/headless-android-sdk</id>
-      <updated>2026-10-09T15:35:31.000Z</updated>
-      <summary>Android SDK to automate other apps headlessly on a hidden virtual display via Shizuku. Keyboard-free typing and clicking through accessibility, read-back verified actions, and guards that keep your real screen (display 0) untouched.</summary>
-    </entry>
-    <entry>
-      <title>tingao/debian-on-s23-ultra</title>
-      <link href="https://github.com/tingao/debian-on-s23-ultra"/>
-      <id>https://github.com/tingao/debian-on-s23-ultra</id>
-      <updated>2026-10-10T10:02:16.000Z</updated>
-      <summary>A Samsung Galaxy S23 Ultra running Debian 13 as a server. The bootloader is locked, so an app re-establishes root after every reboot: Shizuku, CVE-2026-43499, KernelSU Next late-load, then a Debian chroot with sshd. One APK, quickstart, chroot bootstrap, and notes on everything that did not work.</summary>
-    </entry>
-    <entry>
-      <title>soralis0912/ShutterSoundToggle</title>
-      <link href="https://github.com/soralis0912/ShutterSoundToggle"/>
-      <id>https://github.com/soralis0912/ShutterSoundToggle</id>
-      <updated>2026-10-08T15:26:17.000Z</updated>
-      <summary>Toggle the enforced camera shutter sound through Shizuku</summary>
-    </entry>
-    <entry>
-      <title>bl3xand/APK-Toolbox</title>
-      <link href="https://github.com/bl3xand/APK-Toolbox"/>
-      <id>https://github.com/bl3xand/APK-Toolbox</id>
-      <updated>2026-10-10T15:58:36.000Z</updated>
-      <summary>Track, clone, install and merge Android apps right on the phone: updates straight from GitHub, F-Droid and other sources, second copies of apps, split APK installer, APKS export and split merging. No root.</summary>
     </entry>
 </feed>
