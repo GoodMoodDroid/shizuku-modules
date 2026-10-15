@@ -3,9 +3,65 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-10-14T08:05:01.995Z</updated>
+  <updated>2026-10-15T07:46:22.544Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>ABDURREHMAN629/voltcore</title>
+      <link href="https://github.com/ABDURREHMAN629/voltcore"/>
+      <id>https://github.com/ABDURREHMAN629/voltcore</id>
+      <updated>2026-10-14T10:30:11.000Z</updated>
+      <summary>AR VoltCore: free Android battery monitor &amp; ampere charging meter APK. Live mA, watts, volts, battery health, per-app battery usage, daily &amp; hourly battery history charts. No root, no ads.</summary>
+    </entry>
+    <entry>
+      <title>asyyy857/wechat-bot-android</title>
+      <link href="https://github.com/asyyy857/wechat-bot-android"/>
+      <id>https://github.com/asyyy857/wechat-bot-android</id>
+      <updated>2026-10-15T06:36:34.000Z</updated>
+      <summary>不占手机屏幕、不用 root 的安卓微信自动回复机器人：虚拟屏截图 + OCR 读屏，DeepSeek 人设回复，支持关键词规则 / 表情包 / 记忆库 / 群文件点评。跑在 Android + DSH 容器，适配微信 8.0.78。</summary>
+    </entry>
+    <entry>
+      <title>HeshamNoaman/VoLTEEnabler</title>
+      <link href="https://github.com/HeshamNoaman/VoLTEEnabler"/>
+      <id>https://github.com/HeshamNoaman/VoLTEEnabler</id>
+      <updated>2026-10-14T19:55:41.000Z</updated>
+      <summary>Rootless Android app powered by Shizuku to enable VoLTE, IMS settings, and network tools on Samsung One UI &amp; Android devices without PC or root.</summary>
+    </entry>
+    <entry>
+      <title>hyh9335/galaxy-nr-tools</title>
+      <link href="https://github.com/hyh9335/galaxy-nr-tools"/>
+      <id>https://github.com/hyh9335/galaxy-nr-tools</id>
+      <updated>2026-10-14T23:22:34.000Z</updated>
+      <summary>Unofficial Galaxy S23+ US NR ServiceMode toolkit: offline OCR, Shizuku, six guarded workflows, English/Chinese UI, open-source Android app</summary>
+    </entry>
+    <entry>
+      <title>lokiamxdgg/Game-booster-de-prueba-con-Shizuku-</title>
+      <link href="https://github.com/lokiamxdgg/Game-booster-de-prueba-con-Shizuku-"/>
+      <id>https://github.com/lokiamxdgg/Game-booster-de-prueba-con-Shizuku-</id>
+      <updated>2026-10-09T01:19:27.000Z</updated>
+      <summary>Es una prueba</summary>
+    </entry>
+    <entry>
+      <title>novakin777/WearBridgeADB</title>
+      <link href="https://github.com/novakin777/WearBridgeADB"/>
+      <id>https://github.com/novakin777/WearBridgeADB</id>
+      <updated>2026-10-14T14:11:49.000Z</updated>
+      <summary>Wear OS companion for shell and root commands via Shizuku and the Wear Data Layer.</summary>
+    </entry>
+    <entry>
+      <title>pccr10001/VoAny</title>
+      <link href="https://github.com/pccr10001/VoAny"/>
+      <id>https://github.com/pccr10001/VoAny</id>
+      <updated>2026-10-14T22:32:12.000Z</updated>
+      <summary>A standalone VoWiFi App for any Android phone with Shizuku supported.</summary>
+    </entry>
+    <entry>
+      <title>ScreenOnAuto</title>
+      <link href="https://screenonauto.lzn.idv.tw/"/>
+      <id>https://screenonauto.lzn.idv.tw/</id>
+      <updated>2026-10-15T07:45:36.879Z</updated>
+      <summary>Mirrors the phone screen to Android Auto with touch forwarding and media controls. Optional Shizuku/root turns the phone screen off, adds real touch injection (long-press, drag, multi-finger) and matches the phone screen to the car</summary>
+    </entry>
     <entry>
       <title>ZENINXOP/Hexora</title>
       <link href="https://github.com/ZENINXOP/Hexora"/>
@@ -28,6 +84,13 @@
       <summary>Opens any music link in your preferred app with exact match, playlists and synced lyrics; one-tap setup via Shizuku</summary>
     </entry>
     <entry>
+      <title>evilqin/opencode-pocket</title>
+      <link href="https://github.com/evilqin/opencode-pocket"/>
+      <id>https://github.com/evilqin/opencode-pocket</id>
+      <updated>2026-10-14T10:28:03.000Z</updated>
+      <summary>把官方 opencode 装进手机的 Android 应用：内置 proot + Ubuntu，免 root / 免 Termux，含原生对话页与设备 Shell 桥</summary>
+    </entry>
+    <entry>
       <title>kukirin-ui/Meridian</title>
       <link href="https://github.com/kukirin-ui/Meridian"/>
       <id>https://github.com/kukirin-ui/Meridian</id>
@@ -38,35 +101,21 @@
       <title>nanaoniiiii/sunshine</title>
       <link href="https://github.com/nanaoniiiii/sunshine"/>
       <id>https://github.com/nanaoniiiii/sunshine</id>
-      <updated>2026-10-13T21:08:44.000Z</updated>
-      <summary>Sunshine for Android：支持 Moonlight 的 Android 串流主机，提供硬件编码、音频内录与 Shizuku 远程输入。</summary>
-    </entry>
-    <entry>
-      <title>evilqin/opencode-pocket</title>
-      <link href="https://github.com/evilqin/opencode-pocket"/>
-      <id>https://github.com/evilqin/opencode-pocket</id>
-      <updated>2026-10-14T07:07:51.000Z</updated>
-      <summary>把官方 opencode 装进手机的 Android 应用：内置 proot + Ubuntu，免 root / 免 Termux，含原生对话页与设备 Shell 桥</summary>
+      <updated>2026-10-14T22:08:30.000Z</updated>
+      <summary>Sunshine for Android：Android 串流主机，支持硬件编码、音频内录、远程输入与兼容协议的开放接收端。</summary>
     </entry>
     <entry>
       <title>IceTeacher/GazeKeep</title>
       <link href="https://github.com/IceTeacher/GazeKeep"/>
       <id>https://github.com/IceTeacher/GazeKeep</id>
-      <updated>2026-10-13T15:13:13.000Z</updated>
+      <updated>2026-10-14T15:21:12.000Z</updated>
       <summary>为缺少系统级注视不熄屏的 Android 设备提供端侧离线注视保亮功能：临近熄屏前短时采样、零网络权限、看不清默认熄屏，支持 LSPosed / Shizuku / 无障碍三种后端与按白名单启用。</summary>
-    </entry>
-    <entry>
-      <title>896kb/ai-usage-companion</title>
-      <link href="https://github.com/896kb/ai-usage-companion"/>
-      <id>https://github.com/896kb/ai-usage-companion</id>
-      <updated>2026-10-13T14:41:40.000Z</updated>
-      <summary>Claude Code usage limits on the Xiaomi 17 Pro's rear display. · Mirror of https://gitlab.com/896kb/ai-usage-companion — issues and merge requests there.</summary>
     </entry>
     <entry>
       <title>right-ward/orpheus</title>
       <link href="https://github.com/right-ward/orpheus"/>
       <id>https://github.com/right-ward/orpheus</id>
-      <updated>2026-10-14T00:06:50.000Z</updated>
+      <updated>2026-10-14T21:49:21.000Z</updated>
       <summary>Preserve your Android environment through destructive system changes.</summary>
     </entry>
     <entry>
@@ -75,6 +124,13 @@
       <id>https://github.com/turkdevprodoctions/debloat</id>
       <updated>2026-10-13T19:25:42.000Z</updated>
       <summary>Android system app manager powered by Shizuku. Open source, ad-free,</summary>
+    </entry>
+    <entry>
+      <title>896kb/ai-usage-companion</title>
+      <link href="https://github.com/896kb/ai-usage-companion"/>
+      <id>https://github.com/896kb/ai-usage-companion</id>
+      <updated>2026-10-13T14:41:40.000Z</updated>
+      <summary>Claude Code usage limits on the Xiaomi 17 Pro's rear display. · Mirror of https://gitlab.com/896kb/ai-usage-companion — issues and merge requests there.</summary>
     </entry>
     <entry>
       <title>Batestinha/kdeconnect-android-shizuku-pre-fork-20261012</title>
@@ -98,6 +154,13 @@
       <summary>An independent Android screen for AI agents, with authenticated MCP, live PiP and user takeover.</summary>
     </entry>
     <entry>
+      <title>Pha4tom/DroidLens</title>
+      <link href="https://github.com/Pha4tom/DroidLens"/>
+      <id>https://github.com/Pha4tom/DroidLens</id>
+      <updated>2026-10-12T19:22:41.000Z</updated>
+      <summary>On-device APK analyzer and decompiler for Android — custom AXML/ARSC/DEX parsers, on-device jadx, and a Shizuku-powered intent fuzzer. No root, no PC, no Termux.</summary>
+    </entry>
+    <entry>
       <title>Crisdapu21/mando-toques</title>
       <link href="https://github.com/Crisdapu21/mando-toques"/>
       <id>https://github.com/Crisdapu21/mando-toques</id>
@@ -112,13 +175,6 @@
       <summary>Boost your PC gaming performance instantly with free, automated system optimization, memory freeing, and process prioritization for smoother, faster gameplay.</summary>
     </entry>
     <entry>
-      <title>Pha4tom/DroidLens</title>
-      <link href="https://github.com/Pha4tom/DroidLens"/>
-      <id>https://github.com/Pha4tom/DroidLens</id>
-      <updated>2026-10-12T19:22:41.000Z</updated>
-      <summary>On-device APK analyzer and decompiler for Android — custom AXML/ARSC/DEX parsers, on-device jadx, and a Shizuku-powered intent fuzzer. No root, no PC, no Termux.</summary>
-    </entry>
-    <entry>
       <title>shiqi123765/AutoGLM-Android-ChatUI</title>
       <link href="https://github.com/shiqi123765/AutoGLM-Android-ChatUI"/>
       <id>https://github.com/shiqi123765/AutoGLM-Android-ChatUI</id>
@@ -129,14 +185,14 @@
       <title>vanlinh0392-art/BatteryGuard</title>
       <link href="https://github.com/vanlinh0392-art/BatteryGuard"/>
       <id>https://github.com/vanlinh0392-art/BatteryGuard</id>
-      <updated>2026-10-14T01:56:17.000Z</updated>
+      <updated>2026-10-15T00:06:55.000Z</updated>
       <summary></summary>
     </entry>
     <entry>
       <title>xav-ie/Tetherbug</title>
       <link href="https://github.com/xav-ie/Tetherbug"/>
       <id>https://github.com/xav-ie/Tetherbug</id>
-      <updated>2026-10-12T19:59:46.000Z</updated>
+      <updated>2026-10-15T07:35:13.000Z</updated>
       <summary>Make your Android hotspot behave like an iPhone's on macOS: auto-enable over Bluetooth LE, Personal Hotspot link icon, metered connection.</summary>
     </entry>
     <entry>
@@ -159,61 +215,5 @@
       <id>https://github.com/Shishir-ip/NetBlocker</id>
       <updated>2026-10-11T13:25:54.000Z</updated>
       <summary>Still in processing.....</summary>
-    </entry>
-    <entry>
-      <title>usamaiqb/network-scanner</title>
-      <link href="https://github.com/usamaiqb/network-scanner"/>
-      <id>https://github.com/usamaiqb/network-scanner</id>
-      <updated>2026-10-13T09:00:28.000Z</updated>
-      <summary>Fast, privacy-focused network scanner to discover devices on your local network</summary>
-    </entry>
-    <entry>
-      <title>chr243/Verdroid</title>
-      <link href="https://github.com/chr243/Verdroid"/>
-      <id>https://github.com/chr243/Verdroid</id>
-      <updated>2026-10-14T05:01:06.000Z</updated>
-      <summary>On-device AI agent for Android, tuned for free OpenRouter/Kilo models with automatic model/key fallback and rate-limit recovery. Tools: web search/fetch over HTTP, bash/Python in Termux (optional headless Chromium + Selenium), Shizuku/rish shell, Accessibility, ebook translation, Documents/Verdroid,</summary>
-    </entry>
-    <entry>
-      <title>gaoyilun/adbSwitch</title>
-      <link href="https://github.com/gaoyilun/adbSwitch"/>
-      <id>https://github.com/gaoyilun/adbSwitch</id>
-      <updated>2026-10-10T16:25:41.000Z</updated>
-      <summary>通过 Shizuku / root 真实改写系统调试状态的快捷开关工具，支持 USB 调试、无线调试与开发者选项的开关，可从桌面快捷方式或通知磁贴一键操作；关闭调试后会常驻一条通知，点一下即可恢复，支持「实时动态」状态栏胶囊。A shortcut tool that truly modifies the system debug status toggle via Shizuku/root, supporting USB debugging, wireless debugging, and Developer Options toggles.</summary>
-    </entry>
-    <entry>
-      <title>HappyLadySauceM/GazeKeep</title>
-      <link href="https://github.com/HappyLadySauceM/GazeKeep"/>
-      <id>https://github.com/HappyLadySauceM/GazeKeep</id>
-      <updated>2026-10-11T07:03:23.000Z</updated>
-      <summary>为缺少系统级注视不熄屏的 Android 设备提供端上离线注视保亮：临近熄屏前短时采样、零网络权限、看不清默认熄屏，支持 LSPosed / Shizuku / 无障碍三种后端与按应用白名单启用。</summary>
-    </entry>
-    <entry>
-      <title>arusaha/pocket-flight</title>
-      <link href="https://github.com/arusaha/pocket-flight"/>
-      <id>https://github.com/arusaha/pocket-flight</id>
-      <updated>2026-10-14T01:11:38.000Z</updated>
-      <summary>Pocket Flight: Auto Airplane. Automatic airplane mode for Android walks, runs and hikes: reduce cellular radio transmissions (RF EMF) while locked in your pocket; reconnect on unlock. Wi-Fi/Bluetooth exceptions. Shizuku, no root.</summary>
-    </entry>
-    <entry>
-      <title>arusaha/wrist-flight</title>
-      <link href="https://github.com/arusaha/wrist-flight"/>
-      <id>https://github.com/arusaha/wrist-flight</id>
-      <updated>2026-10-12T05:51:05.000Z</updated>
-      <summary>Wrist Flight: Auto Airplane automates airplane mode on Galaxy Watch and Wear OS. On while worn; off when removed or charging. For all-day wear and bedtime. Sideloadable APK; Shizuku required, no root.</summary>
-    </entry>
-    <entry>
-      <title>leolionart/AADisplay-DuoScreen</title>
-      <link href="https://github.com/leolionart/AADisplay-DuoScreen"/>
-      <id>https://github.com/leolionart/AADisplay-DuoScreen</id>
-      <updated>2026-10-10T09:02:28.000Z</updated>
-      <summary>Open-Source Multi-Display for Android Auto using Shizuku (Wireless ADB)</summary>
-    </entry>
-    <entry>
-      <title>shepard639/AdaptiveHz</title>
-      <link href="https://github.com/shepard639/AdaptiveHz"/>
-      <id>https://github.com/shepard639/AdaptiveHz</id>
-      <updated>2026-10-11T14:44:50.000Z</updated>
-      <summary>Adaptive refresh rate, 120Hz in power saving mode &amp; battery optimizer for Samsung Galaxy</summary>
     </entry>
 </feed>
