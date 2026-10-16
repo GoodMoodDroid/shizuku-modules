@@ -3,9 +3,128 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-10-15T07:46:22.544Z</updated>
+  <updated>2026-10-16T07:34:32.283Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>AlanHuang99/Voyager</title>
+      <link href="https://github.com/AlanHuang99/Voyager"/>
+      <id>https://github.com/AlanHuang99/Voyager</id>
+      <updated>2026-10-16T06:27:39.000Z</updated>
+      <summary>Material Design 3 file browser for Android with SFTP, FTP, SMB, WebDAV support</summary>
+    </entry>
+    <entry>
+      <title>rn-os/superboox</title>
+      <link href="https://github.com/rn-os/superboox"/>
+      <id>https://github.com/rn-os/superboox</id>
+      <updated>2026-10-16T02:33:31.000Z</updated>
+      <summary>Supernote-style swipe-in quick access panel for ONYX BOOX e-ink tablets with pinned notes and books, quick controls, clipboard history</summary>
+    </entry>
+    <entry>
+      <title>btsearch/bunnylock</title>
+      <link href="https://github.com/btsearch/bunnylock"/>
+      <id>https://github.com/btsearch/bunnylock</id>
+      <updated>2026-10-15T16:42:53.000Z</updated>
+      <summary>Lock 2G/3G/4G/5G bands, RATs, frequencies and cells without root, picking the best backend available (Qualcomm, MediaTek, Pixel Tensor, Exynos, radio HAL)</summary>
+    </entry>
+    <entry>
+      <title>dlawoals2713/User-Hopper</title>
+      <link href="https://github.com/dlawoals2713/User-Hopper"/>
+      <id>https://github.com/dlawoals2713/User-Hopper</id>
+      <updated>2026-10-15T06:25:19.000Z</updated>
+      <summary>Create, start, stop and delete guest and secondary users on devices where the maker disabled multi-user support</summary>
+    </entry>
+    <entry>
+      <title>xUmutKx/Pulse</title>
+      <link href="https://github.com/xUmutKx/Pulse"/>
+      <id>https://github.com/xUmutKx/Pulse</id>
+      <updated>2026-10-15T23:21:29.000Z</updated>
+      <summary>All-in-one toolbox built around a live task manager: CPU, memory, storage, network and temperature graphs, plus file explorer, silent installer, debloater, widgets and terminal</summary>
+    </entry>
+    <entry>
+      <title>Airplane Scheduler</title>
+      <link href="https://f-droid.org/packages/io.github.probecat.airplanescheduler/"/>
+      <id>https://f-droid.org/packages/io.github.probecat.airplanescheduler/</id>
+      <updated>2026-10-16T07:33:43.030Z</updated>
+      <summary>Turns airplane mode on and off on a schedule so your phone goes quiet at night, with overnight ranges, optional Wi-Fi toggling</summary>
+    </entry>
+    <entry>
+      <title>david-x3d/adns-controld</title>
+      <link href="https://github.com/david-x3d/adns-controld"/>
+      <id>https://github.com/david-x3d/adns-controld</id>
+      <updated>2026-10-12T19:15:53.000Z</updated>
+      <summary>Android app for managing Control D (and NextDNS) with native Private DNS control</summary>
+    </entry>
+    <entry>
+      <title>felipegatoloko10/punk-app</title>
+      <link href="https://github.com/felipegatoloko10/punk-app"/>
+      <id>https://github.com/felipegatoloko10/punk-app</id>
+      <updated>2026-10-15T14:58:08.000Z</updated>
+      <summary>PUNK Companion - Automação Total, Visão Remota e Telemetria para Android via Hermes Agent &amp; Shizuku</summary>
+    </entry>
+    <entry>
+      <title>fiozxr/PocketRouter</title>
+      <link href="https://github.com/fiozxr/PocketRouter"/>
+      <id>https://github.com/fiozxr/PocketRouter</id>
+      <updated>2026-10-16T00:57:35.000Z</updated>
+      <summary>an open-source Android networking toolkit for local-network diagnostics and hotspot experiments. It targets Android 16 (API 36), uses Kotlin + Jetpack Compose + Material 3, and has a minimum SDK of Android 8.0 (API 26).</summary>
+    </entry>
+    <entry>
+      <title>GrayPause</title>
+      <link href="https://f-droid.org/packages/com.lpw.graypause/"/>
+      <id>https://f-droid.org/packages/com.lpw.graypause/</id>
+      <updated>2026-10-16T07:33:43.030Z</updated>
+      <summary>Keeps your phone in grayscale and runs self-ending color breaks on a timer, with a Quick Settings tile, launcher shortcuts, countdown notifications and per-app color exceptions</summary>
+    </entry>
+    <entry>
+      <title>justl3as/thai-clock-fix</title>
+      <link href="https://github.com/justl3as/thai-clock-fix"/>
+      <id>https://github.com/justl3as/thai-clock-fix</id>
+      <updated>2026-10-15T19:16:32.000Z</updated>
+      <summary>Android utility for configuring Thai SystemUI clock locale through Shizuku</summary>
+    </entry>
+    <entry>
+      <title>Kirogii/S25ULTRA-MangaAMTL</title>
+      <link href="https://github.com/Kirogii/S25ULTRA-MangaAMTL"/>
+      <id>https://github.com/Kirogii/S25ULTRA-MangaAMTL</id>
+      <updated>2026-10-16T00:43:12.000Z</updated>
+      <summary>Manga and live screen translation for Samsung Galaxy S25 Ultra, with Google Lens, Samsung Interpreter, Shizuku and Qualcomm NPU support</summary>
+    </entry>
+    <entry>
+      <title>milkei/audio-focus-mixer</title>
+      <link href="https://github.com/milkei/audio-focus-mixer"/>
+      <id>https://github.com/milkei/audio-focus-mixer</id>
+      <updated>2026-10-16T05:35:13.000Z</updated>
+      <summary>A lightweight Shizuku-powered Android app for per-app audio focus control.</summary>
+    </entry>
+    <entry>
+      <title>privshell/pulse-battery</title>
+      <link href="https://github.com/privshell/pulse-battery"/>
+      <id>https://github.com/privshell/pulse-battery</id>
+      <updated>2026-10-16T03:51:24.000Z</updated>
+      <summary>Battery &amp; Wakelock Doctor, with an integrated Backup Vault</summary>
+    </entry>
+    <entry>
+      <title>R-Dilipkumar/one-tap-network-reset</title>
+      <link href="https://github.com/R-Dilipkumar/one-tap-network-reset"/>
+      <id>https://github.com/R-Dilipkumar/one-tap-network-reset</id>
+      <updated>2026-10-15T11:08:37.000Z</updated>
+      <summary>One tap to reset your Android mobile network without airplane mode, plus a 5G status notification per SIM. Kotlin, Shizuku/root.</summary>
+    </entry>
+    <entry>
+      <title>raunakpower699-ui/He-ll-</title>
+      <link href="https://github.com/raunakpower699-ui/He-ll-"/>
+      <id>https://github.com/raunakpower699-ui/He-ll-</id>
+      <updated>2026-10-15T07:58:00.000Z</updated>
+      <summary>Vivo</summary>
+    </entry>
+    <entry>
+      <title>wzy-20130517/ccm-android</title>
+      <link href="https://github.com/wzy-20130517/ccm-android"/>
+      <id>https://github.com/wzy-20130517/ccm-android</id>
+      <updated>2026-10-16T05:36:56.000Z</updated>
+      <summary>Claude Code Mobile 的 Android 原生版 —— Kotlin + Compose 重写，支持手机操作、悬浮窗、应用内自更新</summary>
+    </entry>
     <entry>
       <title>ABDURREHMAN629/voltcore</title>
       <link href="https://github.com/ABDURREHMAN629/voltcore"/>
@@ -77,6 +196,13 @@
       <summary>Turns grey dark-mode surfaces into true AMOLED black with per-app color rules and force-dark. Shizuku only enables force-dark; root and LSPosed are needed for full functionality</summary>
     </entry>
     <entry>
+      <title>nanaoniiiii/sunshine</title>
+      <link href="https://github.com/nanaoniiiii/sunshine"/>
+      <id>https://github.com/nanaoniiiii/sunshine</id>
+      <updated>2026-10-15T08:49:57.000Z</updated>
+      <summary>Sunshine for Android：Android 串流主机，支持硬件编码、音频内录、远程输入与兼容协议的开放接收端。</summary>
+    </entry>
+    <entry>
       <title>astrovm/crosstune</title>
       <link href="https://github.com/astrovm/crosstune"/>
       <id>https://github.com/astrovm/crosstune</id>
@@ -89,131 +215,5 @@
       <id>https://github.com/evilqin/opencode-pocket</id>
       <updated>2026-10-14T10:28:03.000Z</updated>
       <summary>把官方 opencode 装进手机的 Android 应用：内置 proot + Ubuntu，免 root / 免 Termux，含原生对话页与设备 Shell 桥</summary>
-    </entry>
-    <entry>
-      <title>kukirin-ui/Meridian</title>
-      <link href="https://github.com/kukirin-ui/Meridian"/>
-      <id>https://github.com/kukirin-ui/Meridian</id>
-      <updated>2026-10-14T00:07:15.000Z</updated>
-      <summary>Open source Android command deck for Termux: live phone readings, shell recipes, local llama.cpp AI agent mesh, and voice assistant. No account, no server. MIT.</summary>
-    </entry>
-    <entry>
-      <title>nanaoniiiii/sunshine</title>
-      <link href="https://github.com/nanaoniiiii/sunshine"/>
-      <id>https://github.com/nanaoniiiii/sunshine</id>
-      <updated>2026-10-14T22:08:30.000Z</updated>
-      <summary>Sunshine for Android：Android 串流主机，支持硬件编码、音频内录、远程输入与兼容协议的开放接收端。</summary>
-    </entry>
-    <entry>
-      <title>IceTeacher/GazeKeep</title>
-      <link href="https://github.com/IceTeacher/GazeKeep"/>
-      <id>https://github.com/IceTeacher/GazeKeep</id>
-      <updated>2026-10-14T15:21:12.000Z</updated>
-      <summary>为缺少系统级注视不熄屏的 Android 设备提供端侧离线注视保亮功能：临近熄屏前短时采样、零网络权限、看不清默认熄屏，支持 LSPosed / Shizuku / 无障碍三种后端与按白名单启用。</summary>
-    </entry>
-    <entry>
-      <title>right-ward/orpheus</title>
-      <link href="https://github.com/right-ward/orpheus"/>
-      <id>https://github.com/right-ward/orpheus</id>
-      <updated>2026-10-14T21:49:21.000Z</updated>
-      <summary>Preserve your Android environment through destructive system changes.</summary>
-    </entry>
-    <entry>
-      <title>turkdevprodoctions/debloat</title>
-      <link href="https://github.com/turkdevprodoctions/debloat"/>
-      <id>https://github.com/turkdevprodoctions/debloat</id>
-      <updated>2026-10-13T19:25:42.000Z</updated>
-      <summary>Android system app manager powered by Shizuku. Open source, ad-free,</summary>
-    </entry>
-    <entry>
-      <title>896kb/ai-usage-companion</title>
-      <link href="https://github.com/896kb/ai-usage-companion"/>
-      <id>https://github.com/896kb/ai-usage-companion</id>
-      <updated>2026-10-13T14:41:40.000Z</updated>
-      <summary>Claude Code usage limits on the Xiaomi 17 Pro's rear display. · Mirror of https://gitlab.com/896kb/ai-usage-companion — issues and merge requests there.</summary>
-    </entry>
-    <entry>
-      <title>Batestinha/kdeconnect-android-shizuku-pre-fork-20261012</title>
-      <link href="https://github.com/Batestinha/kdeconnect-android-shizuku-pre-fork-20261012"/>
-      <id>https://github.com/Batestinha/kdeconnect-android-shizuku-pre-fork-20261012</id>
-      <updated>2026-09-10T11:56:08.000Z</updated>
-      <summary>Preserved repository before the 2026-10-12 fork migration. Active project: https://github.com/Batestinha/kdeconnect-android-shizuku</summary>
-    </entry>
-    <entry>
-      <title>gitWRLD999/ghost-display</title>
-      <link href="https://github.com/gitWRLD999/ghost-display"/>
-      <id>https://github.com/gitWRLD999/ghost-display</id>
-      <updated>2026-10-12T22:57:57.000Z</updated>
-      <summary>A second Android screen for agents: real apps, screenshot-driven input, and an independent Shizuku display. Android 16 preview.</summary>
-    </entry>
-    <entry>
-      <title>lejw0925/android-virtual-screen</title>
-      <link href="https://github.com/lejw0925/android-virtual-screen"/>
-      <id>https://github.com/lejw0925/android-virtual-screen</id>
-      <updated>2026-10-14T00:34:11.000Z</updated>
-      <summary>An independent Android screen for AI agents, with authenticated MCP, live PiP and user takeover.</summary>
-    </entry>
-    <entry>
-      <title>Pha4tom/DroidLens</title>
-      <link href="https://github.com/Pha4tom/DroidLens"/>
-      <id>https://github.com/Pha4tom/DroidLens</id>
-      <updated>2026-10-12T19:22:41.000Z</updated>
-      <summary>On-device APK analyzer and decompiler for Android — custom AXML/ARSC/DEX parsers, on-device jadx, and a Shizuku-powered intent fuzzer. No root, no PC, no Termux.</summary>
-    </entry>
-    <entry>
-      <title>Crisdapu21/mando-toques</title>
-      <link href="https://github.com/Crisdapu21/mando-toques"/>
-      <id>https://github.com/Crisdapu21/mando-toques</id>
-      <updated>2026-10-13T06:30:52.000Z</updated>
-      <summary></summary>
-    </entry>
-    <entry>
-      <title>idklckckkdckf/Game-Booster</title>
-      <link href="https://github.com/idklckckkdckf/Game-Booster"/>
-      <id>https://github.com/idklckckkdckf/Game-Booster</id>
-      <updated>2026-10-13T15:53:52.000Z</updated>
-      <summary>Boost your PC gaming performance instantly with free, automated system optimization, memory freeing, and process prioritization for smoother, faster gameplay.</summary>
-    </entry>
-    <entry>
-      <title>shiqi123765/AutoGLM-Android-ChatUI</title>
-      <link href="https://github.com/shiqi123765/AutoGLM-Android-ChatUI"/>
-      <id>https://github.com/shiqi123765/AutoGLM-Android-ChatUI</id>
-      <updated>2026-10-12T12:58:50.000Z</updated>
-      <summary>基于 Luokavin/AutoGLM-For-Android (MIT) 的对话式 UI 改版：豆包风格气泡 + Markdown 渲染 + 侧边 Agent 执行面板 + 一键深浅色（93 色键浅深对齐）；并修复 Android 14+ 设置页崩溃、深浅色切换导致 Activity 无限重建（黑白闪）、软键盘遮挡输入栏</summary>
-    </entry>
-    <entry>
-      <title>vanlinh0392-art/BatteryGuard</title>
-      <link href="https://github.com/vanlinh0392-art/BatteryGuard"/>
-      <id>https://github.com/vanlinh0392-art/BatteryGuard</id>
-      <updated>2026-10-15T00:06:55.000Z</updated>
-      <summary></summary>
-    </entry>
-    <entry>
-      <title>xav-ie/Tetherbug</title>
-      <link href="https://github.com/xav-ie/Tetherbug"/>
-      <id>https://github.com/xav-ie/Tetherbug</id>
-      <updated>2026-10-15T07:35:13.000Z</updated>
-      <summary>Make your Android hotspot behave like an iPhone's on macOS: auto-enable over Bluetooth LE, Personal Hotspot link icon, metered connection.</summary>
-    </entry>
-    <entry>
-      <title>hahahaxu1/AppRotate</title>
-      <link href="https://github.com/hahahaxu1/AppRotate"/>
-      <id>https://github.com/hahahaxu1/AppRotate</id>
-      <updated>2026-10-12T06:22:52.000Z</updated>
-      <summary>可控制应用旋转方向的App</summary>
-    </entry>
-    <entry>
-      <title>probecat/airplane-scheduler-app</title>
-      <link href="https://github.com/probecat/airplane-scheduler-app"/>
-      <id>https://github.com/probecat/airplane-scheduler-app</id>
-      <updated>2026-10-12T05:54:52.000Z</updated>
-      <summary>An app that turns airplane mode on and off on a schedule</summary>
-    </entry>
-    <entry>
-      <title>Shishir-ip/NetBlocker</title>
-      <link href="https://github.com/Shishir-ip/NetBlocker"/>
-      <id>https://github.com/Shishir-ip/NetBlocker</id>
-      <updated>2026-10-11T13:25:54.000Z</updated>
-      <summary>Still in processing.....</summary>
     </entry>
 </feed>
