@@ -3,15 +3,106 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-10-18T07:27:48.338Z</updated>
+  <updated>2026-10-19T08:09:16.005Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>WEIHEWU/shizuku-sam</title>
+      <link href="https://github.com/WEIHEWU/shizuku-sam"/>
+      <id>https://github.com/WEIHEWU/shizuku-sam</id>
+      <updated>2026-10-18T04:28:16.000Z</updated>
+      <summary>Samsung One UI 8.5 Enhanced Shizuku &amp; System Tuning Suite</summary>
+    </entry>
+    <entry>
+      <title>chardxDev/FastStrap</title>
+      <link href="https://github.com/chardxDev/FastStrap"/>
+      <id>https://github.com/chardxDev/FastStrap</id>
+      <updated>2026-10-18T23:48:14.000Z</updated>
+      <summary>Roblox FFlags editor for Android powered by Shizuku</summary>
+    </entry>
+    <entry>
+      <title>fun7772ei/OneTools</title>
+      <link href="https://github.com/fun7772ei/OneTools"/>
+      <id>https://github.com/fun7772ei/OneTools</id>
+      <updated>2026-10-18T13:00:36.000Z</updated>
+      <summary>Samsung Galaxy向け非公式Androidツール。Kotlin / Jetpack Compose製のソースコードと署名済みAPKを公開。</summary>
+    </entry>
+    <entry>
+      <title>rjkyker383-gif/shizuku-ai-action-broker</title>
+      <link href="https://github.com/rjkyker383-gif/shizuku-ai-action-broker"/>
+      <id>https://github.com/rjkyker383-gif/shizuku-ai-action-broker</id>
+      <updated>2026-10-19T07:44:17.000Z</updated>
+      <summary>Permissioned AI-to-Shizuku action broker for Android, enabling chatbots to request elevated device actions through structured commands, explicit user confirmation, and a strict allow-list</summary>
+    </entry>
+    <entry>
+      <title>A-124/hyperboost-engine-pro</title>
+      <link href="https://github.com/A-124/hyperboost-engine-pro"/>
+      <id>https://github.com/A-124/hyperboost-engine-pro</id>
+      <updated>2026-10-19T08:03:59.000Z</updated>
+      <summary>Rootless Android performance booster for gamers: one-tap Master Turbo, live FPS HUD, crosshair overlay and per-game profiles via Shizuku.</summary>
+    </entry>
+    <entry>
+      <title>haintrainn/grapheneos-firewall-app</title>
+      <link href="https://github.com/haintrainn/grapheneos-firewall-app"/>
+      <id>https://github.com/haintrainn/grapheneos-firewall-app</id>
+      <updated>2026-10-19T06:45:20.000Z</updated>
+      <summary>Unofficial per-app firewall for GrapheneOS that toggles the built-in Network permission via Shizuku. No VPN, no network access of its own.</summary>
+    </entry>
+    <entry>
+      <title>isac12345/starshore</title>
+      <link href="https://github.com/isac12345/starshore"/>
+      <id>https://github.com/isac12345/starshore</id>
+      <updated>2026-10-18T07:29:40.000Z</updated>
+      <summary>Phone cleaner and video compressor for Android. No internet permission, no ads.</summary>
+    </entry>
+    <entry>
+      <title>rayenghanmi/RyTuneX-Android</title>
+      <link href="https://github.com/rayenghanmi/RyTuneX-Android"/>
+      <id>https://github.com/rayenghanmi/RyTuneX-Android</id>
+      <updated>2026-10-18T17:40:41.000Z</updated>
+      <summary>RyTuneX for Android is a stateless system tuning and debloat engine built with Kotlin and Jetpack Compose, powered by Shizuku (ADB UID 2000) with zero background daemons.</summary>
+    </entry>
+    <entry>
+      <title>saikiran9185/BudsFirst</title>
+      <link href="https://github.com/saikiran9185/BudsFirst"/>
+      <id>https://github.com/saikiran9185/BudsFirst</id>
+      <updated>2026-10-18T16:41:27.000Z</updated>
+      <summary>Stop Android from moving your music and calls to every Bluetooth device that connects. Rank your devices; the rest stay connected on standby.</summary>
+    </entry>
+    <entry>
+      <title>starlightjulie/TwinnDroid</title>
+      <link href="https://github.com/starlightjulie/TwinnDroid"/>
+      <id>https://github.com/starlightjulie/TwinnDroid</id>
+      <updated>2026-10-19T04:26:17.000Z</updated>
+      <summary>Run two copies of any Android app with separate logins. No root. Clone apps with custom names, icons and permissions, extract APKs, and theme it your way.</summary>
+    </entry>
+    <entry>
+      <title>Unknown-mj/bgmi-fps-monitor</title>
+      <link href="https://github.com/Unknown-mj/bgmi-fps-monitor"/>
+      <id>https://github.com/Unknown-mj/bgmi-fps-monitor</id>
+      <updated>2026-10-19T06:45:05.000Z</updated>
+      <summary>FPS counter &amp; stutter monitor for BGMI and PUBG Mobile on Android: accurate frame rate, phone heat, floating overlay (Rust + Shizuku)</summary>
+    </entry>
     <entry>
       <title>shaonialife/cardeck</title>
       <link href="https://github.com/shaonialife/cardeck"/>
       <id>https://github.com/shaonialife/cardeck</id>
-      <updated>2026-10-18T03:17:05.000Z</updated>
+      <updated>2026-10-19T07:09:51.000Z</updated>
       <summary>CarDeck — 让 Android 手机扮演 CarPlay 发送端（非官方实验性项目）</summary>
+    </entry>
+    <entry>
+      <title>ankitchanki/LED</title>
+      <link href="https://github.com/ankitchanki/LED"/>
+      <id>https://github.com/ankitchanki/LED</id>
+      <updated>2026-10-19T07:27:32.000Z</updated>
+      <summary>AMOLED notification LED for Android 10+. A glowing ring around your camera cutout, a black always-on screen with app icons, 9 animations, per-app colours, very low battery use. Works on any brand (HyperOS, One UI, ColorOS…), with optional Shizuku/root one-tap setup.</summary>
+    </entry>
+    <entry>
+      <title>seph3421/GhostLock-Raspite</title>
+      <link href="https://github.com/seph3421/GhostLock-Raspite"/>
+      <id>https://github.com/seph3421/GhostLock-Raspite</id>
+      <updated>2026-10-19T04:02:35.000Z</updated>
+      <summary>GhostLock Raspite Android app and Linux root helper for Fire HD 8 12th Gen (KFRAWI).</summary>
     </entry>
     <entry>
       <title>pk1313/flipmirror</title>
@@ -21,17 +112,10 @@
       <summary>Universal 16:9 screen mirroring optimizer for Android (Galaxy Z Flip/Fold, Galaxy S/A, Pixel, etc.). Eliminates black bars on external monitors via Shizuku without PC/root.</summary>
     </entry>
     <entry>
-      <title>ankitchanki/LED</title>
-      <link href="https://github.com/ankitchanki/LED"/>
-      <id>https://github.com/ankitchanki/LED</id>
-      <updated>2026-10-18T07:25:06.000Z</updated>
-      <summary>AMOLED notification LED for Android 10+. A glowing ring around your camera cutout, a black always-on screen with app icons, 9 animations, per-app colours, very low battery use. Works on any brand (HyperOS, One UI, ColorOS…), with optional Shizuku/root one-tap setup.</summary>
-    </entry>
-    <entry>
       <title>dung997tb/Dual-app-samsung</title>
       <link href="https://github.com/dung997tb/Dual-app-samsung"/>
       <id>https://github.com/dung997tb/Dual-app-samsung</id>
-      <updated>2026-10-18T06:48:58.000Z</updated>
+      <updated>2026-10-18T23:09:22.000Z</updated>
       <summary>Dual full app in samsung device </summary>
     </entry>
     <entry>
@@ -56,13 +140,6 @@
       <summary></summary>
     </entry>
     <entry>
-      <title>seph3421/GhostLock-Raspite</title>
-      <link href="https://github.com/seph3421/GhostLock-Raspite"/>
-      <id>https://github.com/seph3421/GhostLock-Raspite</id>
-      <updated>2026-10-18T04:20:26.000Z</updated>
-      <summary>GhostLock Raspite Android app and Linux root helper for Fire HD 8 12th Gen (KFRAWI).</summary>
-    </entry>
-    <entry>
       <title>Vojtem5/Link-Fixer-for-ReVanced-YT</title>
       <link href="https://github.com/Vojtem5/Link-Fixer-for-ReVanced-YT"/>
       <id>https://github.com/Vojtem5/Link-Fixer-for-ReVanced-YT</id>
@@ -73,7 +150,7 @@
       <title>KYRIE66nb/mobile-agent</title>
       <link href="https://github.com/KYRIE66nb/mobile-agent"/>
       <id>https://github.com/KYRIE66nb/mobile-agent</id>
-      <updated>2026-10-17T06:15:45.000Z</updated>
+      <updated>2026-10-19T04:23:49.000Z</updated>
       <summary>Android 端 AI 聊天 + 本地工具 Agent</summary>
     </entry>
     <entry>
@@ -87,7 +164,7 @@
       <title>Sharif-bot-cmd/ShizuPosed</title>
       <link href="https://github.com/Sharif-bot-cmd/ShizuPosed"/>
       <id>https://github.com/Sharif-bot-cmd/ShizuPosed</id>
-      <updated>2026-10-16T14:15:47.000Z</updated>
+      <updated>2026-10-18T08:52:53.000Z</updated>
       <summary>Rootless Xposed Framework</summary>
     </entry>
     <entry>
@@ -133,87 +210,10 @@
       <summary>all shizuku resources </summary>
     </entry>
     <entry>
-      <title>lilining308-prog/tiedun</title>
-      <link href="https://github.com/lilining308-prog/tiedun"/>
-      <id>https://github.com/lilining308-prog/tiedun</id>
-      <updated>2026-10-17T08:14:59.000Z</updated>
-      <summary>Android 应急逃生工具：被锁机病毒/无障碍恶意锁屏控制时，物理按键触发全屏拦截，经 Shizuku/root 删除锁机组件。半成品开源项目，GPL-3.0</summary>
-    </entry>
-    <entry>
-      <title>privshell/void-apps</title>
-      <link href="https://github.com/privshell/void-apps"/>
-      <id>https://github.com/privshell/void-apps</id>
-      <updated>2026-10-16T19:37:43.000Z</updated>
-      <summary>Shizuku app manager: suspend, disable, debloat presets, permissions and AppOps, autostart, per-app network block, APK/XAPK installer and cleaner. Every change is read back from Android</summary>
-    </entry>
-    <entry>
-      <title>sqyCoder/slow-1e8</title>
-      <link href="https://github.com/sqyCoder/slow-1e8"/>
-      <id>https://github.com/sqyCoder/slow-1e8</id>
-      <updated>2026-10-17T04:11:34.000Z</updated>
-      <summary>把自己画的路线变成一段真的跑过的 GPS 轨迹，喂给手机上任意跑步软件。纯 Android Java，无 Gradle。</summary>
-    </entry>
-    <entry>
-      <title>arttvad9r/TypedDroid</title>
-      <link href="https://github.com/arttvad9r/TypedDroid"/>
-      <id>https://github.com/arttvad9r/TypedDroid</id>
-      <updated>2026-10-18T00:10:45.000Z</updated>
-      <summary>Security-first agent-neutral Android bridge for AI agents — typed MCP tools, local approvals, Shizuku, SAF, no unrestricted shell.</summary>
-    </entry>
-    <entry>
-      <title>Brazzo978/smootify</title>
-      <link href="https://github.com/Brazzo978/smootify"/>
-      <id>https://github.com/Brazzo978/smootify</id>
-      <updated>2026-10-16T11:32:40.000Z</updated>
-      <summary>Open-source Android SIM switching and seamless multipath VPN based on MQVPN, with a Bash VPS manager and QR profiles</summary>
-    </entry>
-    <entry>
-      <title>dynamicbeam/shortcut</title>
-      <link href="https://github.com/dynamicbeam/shortcut"/>
-      <id>https://github.com/dynamicbeam/shortcut</id>
-      <updated>2026-10-17T03:13:39.000Z</updated>
-      <summary>安卓8 adb小工具   参考了https://github.com/thejaustin/ShizukuPlus</summary>
-    </entry>
-    <entry>
       <title>geek4945-creator/android-optimizer</title>
       <link href="https://github.com/geek4945-creator/android-optimizer"/>
       <id>https://github.com/geek4945-creator/android-optimizer</id>
       <updated>2026-10-17T19:03:02.000Z</updated>
       <summary>Android Optimizer: root-aware device assess, monitor, optimize, processes, network beaconing, Play Store installer, Chinese-ROM fixes</summary>
-    </entry>
-    <entry>
-      <title>xissus/AdBlockNoRoot</title>
-      <link href="https://github.com/xissus/AdBlockNoRoot"/>
-      <id>https://github.com/xissus/AdBlockNoRoot</id>
-      <updated>2026-10-17T04:42:14.000Z</updated>
-      <summary></summary>
-    </entry>
-    <entry>
-      <title>AlanHuang99/Voyager</title>
-      <link href="https://github.com/AlanHuang99/Voyager"/>
-      <id>https://github.com/AlanHuang99/Voyager</id>
-      <updated>2026-10-16T11:38:44.000Z</updated>
-      <summary>Material Design 3 file browser for Android with SFTP, FTP, SMB, WebDAV support</summary>
-    </entry>
-    <entry>
-      <title>rn-os/superboox</title>
-      <link href="https://github.com/rn-os/superboox"/>
-      <id>https://github.com/rn-os/superboox</id>
-      <updated>2026-10-16T02:33:31.000Z</updated>
-      <summary>Supernote-style swipe-in quick access panel for ONYX BOOX e-ink tablets with pinned notes and books, quick controls, clipboard history</summary>
-    </entry>
-    <entry>
-      <title>btsearch/bunnylock</title>
-      <link href="https://github.com/btsearch/bunnylock"/>
-      <id>https://github.com/btsearch/bunnylock</id>
-      <updated>2026-10-15T16:42:53.000Z</updated>
-      <summary>Lock 2G/3G/4G/5G bands, RATs, frequencies and cells without root, picking the best backend available (Qualcomm, MediaTek, Pixel Tensor, Exynos, radio HAL)</summary>
-    </entry>
-    <entry>
-      <title>dlawoals2713/User-Hopper</title>
-      <link href="https://github.com/dlawoals2713/User-Hopper"/>
-      <id>https://github.com/dlawoals2713/User-Hopper</id>
-      <updated>2026-10-15T06:25:19.000Z</updated>
-      <summary>Create, start, stop and delete guest and secondary users on devices where the maker disabled multi-user support</summary>
     </entry>
 </feed>
