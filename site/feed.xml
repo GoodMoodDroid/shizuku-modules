@@ -3,28 +3,105 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-10-20T07:58:19.630Z</updated>
+  <updated>2026-10-21T08:02:44.284Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
     <entry>
-      <title>ankitchanki/StashDrop</title>
-      <link href="https://github.com/ankitchanki/StashDrop"/>
-      <id>https://github.com/ankitchanki/StashDrop</id>
-      <updated>2026-10-20T07:37:05.000Z</updated>
-      <summary>Catch something useful without losing your place. Share a link into your shelf, save a note, circle part of the screen, extract text, and send a selection back to another app. A thumb-friendly floating dock keeps the shelf nearby</summary>
+      <title>superboyyy/HOneClick</title>
+      <link href="https://github.com/superboyyy/HOneClick"/>
+      <id>https://github.com/superboyyy/HOneClick</id>
+      <updated>2026-10-20T23:03:32.000Z</updated>
+      <summary>荣耀临时 root 工具，目前适用于 Magic9 Pro Max，仅用于个人研究。Experimental temporary-root research tool for Honor (supports Magic9 Pro Max - WKL-AN20/WKL-AN80).</summary>
+    </entry>
+    <entry>
+      <title>3dhaoxinren/miaomo</title>
+      <link href="https://github.com/3dhaoxinren/miaomo"/>
+      <id>https://github.com/3dhaoxinren/miaomo</id>
+      <updated>2026-10-21T01:37:57.000Z</updated>
+      <summary>喵墨 Miaomo｜华为墨水屏 / 华为墨水瓶（常见误写）：3.98英寸四色 NFC 电子纸照片编辑与刷屏 App，手机内置 NFC + Shizuku，无需 root；支持裁剪、文字、相框、InkSight 四色预览。PolyForm 非商用许可。</summary>
+    </entry>
+    <entry>
+      <title>AnoY606-git/SplitBox</title>
+      <link href="https://github.com/AnoY606-git/SplitBox"/>
+      <id>https://github.com/AnoY606-git/SplitBox</id>
+      <updated>2026-10-20T13:04:18.000Z</updated>
+      <summary>Устанавливайте APK, APKS, XAPK и APKM на Android 14+. Удобный выбор частей, Root и Shizuku — без рекламы и аккаунтов.</summary>
+    </entry>
+    <entry>
+      <title>b0r1s-69/ghostlock-x6840</title>
+      <link href="https://github.com/b0r1s-69/ghostlock-x6840"/>
+      <id>https://github.com/b0r1s-69/ghostlock-x6840</id>
+      <updated>2026-10-20T11:48:18.000Z</updated>
+      <summary>GhostLock port for the Infinix Smart 20 (X6840): kernel profile, W3 seccomp analysis, and Shizuku + BakaSU root notes.</summary>
+    </entry>
+    <entry>
+      <title>DeclanJeon/Call_Record</title>
+      <link href="https://github.com/DeclanJeon/Call_Record"/>
+      <id>https://github.com/DeclanJeon/Call_Record</id>
+      <updated>2026-10-21T04:50:17.000Z</updated>
+      <summary>Call_Record — 무료 오픈소스 안드로이드 자동 통화 녹음 앱 (양방향 녹음 · 고지음 · 통화 내용 전사 · Google Drive 백업). ShizuCallRecorder 기반.</summary>
+    </entry>
+    <entry>
+      <title>dmyn1993/pebble-screen-mirror</title>
+      <link href="https://github.com/dmyn1993/pebble-screen-mirror"/>
+      <id>https://github.com/dmyn1993/pebble-screen-mirror</id>
+      <updated>2026-10-20T11:06:59.000Z</updated>
+      <summary>Mirror an Android phone screen to Pebble Time 2 and control the phone from the watch.</summary>
+    </entry>
+    <entry>
+      <title>Fq77/QiNoteAPP</title>
+      <link href="https://github.com/Fq77/QiNoteAPP"/>
+      <id>https://github.com/Fq77/QiNoteAPP</id>
+      <updated>2026-10-21T06:02:35.000Z</updated>
+      <summary>奇记 QiNote — AI 对话式记账 Android 应用（Kotlin + Jetpack Compose + Room + HyperOS 超级岛）</summary>
+    </entry>
+    <entry>
+      <title>gufarina/tapanchor</title>
+      <link href="https://github.com/gufarina/tapanchor"/>
+      <id>https://github.com/gufarina/tapanchor</id>
+      <updated>2026-10-20T20:02:28.000Z</updated>
+      <summary>Android app that turns a Bluetooth/USB HID button into one real tap at a fixed screen point. Shizuku, no root.</summary>
+    </entry>
+    <entry>
+      <title>lukifer23/SIConnect</title>
+      <link href="https://github.com/lukifer23/SIConnect"/>
+      <id>https://github.com/lukifer23/SIConnect</id>
+      <updated>2026-10-21T06:56:53.000Z</updated>
+      <summary>Native Android device-control and automation platform: lets authorized AI agents operate your own phone over MCP, with an on-device policy engine, approvals, Shizuku-backed shell execution, and deterministic skills.</summary>
+    </entry>
+    <entry>
+      <title>Yixuan-Tao/agent-next</title>
+      <link href="https://github.com/Yixuan-Tao/agent-next"/>
+      <id>https://github.com/Yixuan-Tao/agent-next</id>
+      <updated>2026-10-21T01:45:39.000Z</updated>
+      <summary>Android 手机 Agent 原型：用户继续正常用手机时，Agent 在私有虚拟屏操作真实 App，不抢前台、焦点和输入法；无 Root，仅需 Shizuku。</summary>
     </entry>
     <entry>
       <title>Clide01/ProjectZenith</title>
       <link href="https://github.com/Clide01/ProjectZenith"/>
       <id>https://github.com/Clide01/ProjectZenith</id>
-      <updated>2026-10-20T03:16:00.000Z</updated>
+      <updated>2026-10-21T07:29:11.000Z</updated>
       <summary>ProjectZenith is an Android gaming optimization utility with performance controls, game presets, adaptive gaming features, device monitoring, and Shizuku-powered system tools.</summary>
+    </entry>
+    <entry>
+      <title>muhib-karim/s23-optimizer</title>
+      <link href="https://github.com/muhib-karim/s23-optimizer"/>
+      <id>https://github.com/muhib-karim/s23-optimizer</id>
+      <updated>2026-10-17T22:53:12.000Z</updated>
+      <summary>S23 Optimizer: no-root, no-PC battery and speed optimizer for Galaxy S23 Ultra (Shizuku)</summary>
+    </entry>
+    <entry>
+      <title>ankitchanki/StashDrop</title>
+      <link href="https://github.com/ankitchanki/StashDrop"/>
+      <id>https://github.com/ankitchanki/StashDrop</id>
+      <updated>2026-10-20T19:01:22.000Z</updated>
+      <summary>Catch something useful without losing your place. Share a link into your shelf, save a note, circle part of the screen, extract text, and send a selection back to another app. A thumb-friendly floating dock keeps the shelf nearby</summary>
     </entry>
     <entry>
       <title>eqbirvin/T2EToolbox</title>
       <link href="https://github.com/eqbirvin/T2EToolbox"/>
       <id>https://github.com/eqbirvin/T2EToolbox</id>
-      <updated>2026-10-20T03:46:30.000Z</updated>
+      <updated>2026-10-21T00:52:33.000Z</updated>
       <summary>Utility toolbox for the Unihertz Titan 2 Elite (Display Fix, Unified Pull-Down, Volume Mode Switcher, and Flashlight Indicator)</summary>
     </entry>
     <entry>
@@ -47,13 +124,6 @@
       <id>https://github.com/HomuHomu833/RbxFPS</id>
       <updated>2026-10-19T14:43:27.000Z</updated>
       <summary>A basic Roblox FPS Unlocker for Android</summary>
-    </entry>
-    <entry>
-      <title>muhib-karim/s23-optimizer</title>
-      <link href="https://github.com/muhib-karim/s23-optimizer"/>
-      <id>https://github.com/muhib-karim/s23-optimizer</id>
-      <updated>2026-10-17T22:53:12.000Z</updated>
-      <summary>S23 Optimizer: no-root, no-PC battery and speed optimizer for Galaxy S23 Ultra (Shizuku)</summary>
     </entry>
     <entry>
       <title>Napreth/Set-for-U</title>
@@ -87,15 +157,15 @@
       <title>rayenghanmi/RyTuneX-Android</title>
       <link href="https://github.com/rayenghanmi/RyTuneX-Android"/>
       <id>https://github.com/rayenghanmi/RyTuneX-Android</id>
-      <updated>2026-10-19T22:19:54.000Z</updated>
+      <updated>2026-10-20T15:25:54.000Z</updated>
       <summary>RyTuneX for Android is a stateless system tuning and debloat engine built with Kotlin and Jetpack Compose, powered by Shizuku (ADB UID 2000) with zero background daemons.</summary>
     </entry>
     <entry>
-      <title>fun7772ei/OneTools</title>
-      <link href="https://github.com/fun7772ei/OneTools"/>
-      <id>https://github.com/fun7772ei/OneTools</id>
-      <updated>2026-10-18T13:00:36.000Z</updated>
-      <summary>Samsung Galaxy向け非公式Androidツール。Kotlin / Jetpack Compose製のソースコードと署名済みAPKを公開。</summary>
+      <title>starlightjulie/TwinnDroid</title>
+      <link href="https://github.com/starlightjulie/TwinnDroid"/>
+      <id>https://github.com/starlightjulie/TwinnDroid</id>
+      <updated>2026-10-20T03:04:16.000Z</updated>
+      <summary>Run multiple copies of any Android app with separate logins. No root. Clone apps with custom names, icons and permissions, extract APKs, and theme it your way.</summary>
     </entry>
     <entry>
       <title>chardxDev/FastStrap</title>
@@ -105,18 +175,25 @@
       <summary>Roblox FFlags editor for Android powered by Shizuku</summary>
     </entry>
     <entry>
-      <title>rjkyker383-gif/shizuku-ai-action-broker</title>
-      <link href="https://github.com/rjkyker383-gif/shizuku-ai-action-broker"/>
-      <id>https://github.com/rjkyker383-gif/shizuku-ai-action-broker</id>
-      <updated>2026-10-19T07:44:17.000Z</updated>
-      <summary>Permissioned AI-to-Shizuku action broker for Android, enabling chatbots to request elevated device actions through structured commands, explicit user confirmation, and a strict allow-list</summary>
+      <title>fun7772ei/OneTools</title>
+      <link href="https://github.com/fun7772ei/OneTools"/>
+      <id>https://github.com/fun7772ei/OneTools</id>
+      <updated>2026-10-18T13:00:36.000Z</updated>
+      <summary>Samsung Galaxy向け非公式Androidツール。Kotlin / Jetpack Compose製のソースコードと署名済みAPKを公開。</summary>
     </entry>
     <entry>
       <title>A-124/hyperboost-engine-pro</title>
       <link href="https://github.com/A-124/hyperboost-engine-pro"/>
       <id>https://github.com/A-124/hyperboost-engine-pro</id>
-      <updated>2026-10-20T05:23:39.000Z</updated>
+      <updated>2026-10-21T07:52:39.000Z</updated>
       <summary>Rootless Android performance booster for gamers: one-tap Master Turbo, live FPS HUD, crosshair overlay and per-game profiles via Shizuku.</summary>
+    </entry>
+    <entry>
+      <title>rjkyker383-gif/shizuku-ai-action-broker</title>
+      <link href="https://github.com/rjkyker383-gif/shizuku-ai-action-broker"/>
+      <id>https://github.com/rjkyker383-gif/shizuku-ai-action-broker</id>
+      <updated>2026-10-19T07:44:17.000Z</updated>
+      <summary>Permissioned AI-to-Shizuku action broker for Android, enabling chatbots to request elevated device actions through structured commands, explicit user confirmation, and a strict allow-list</summary>
     </entry>
     <entry>
       <title>haintrainn/grapheneos-firewall-app</title>
@@ -138,82 +215,5 @@
       <id>https://github.com/saikiran9185/BudsFirst</id>
       <updated>2026-10-18T16:41:27.000Z</updated>
       <summary>Stop Android from moving your music and calls to every Bluetooth device that connects. Rank your devices; the rest stay connected on standby.</summary>
-    </entry>
-    <entry>
-      <title>starlightjulie/TwinnDroid</title>
-      <link href="https://github.com/starlightjulie/TwinnDroid"/>
-      <id>https://github.com/starlightjulie/TwinnDroid</id>
-      <updated>2026-10-20T03:04:16.000Z</updated>
-      <summary>Run two copies of any Android app with separate logins. No root. Clone apps with custom names, icons and permissions, extract APKs, and theme it your way.</summary>
-    </entry>
-    <entry>
-      <title>Unknown-mj/bgmi-fps-monitor</title>
-      <link href="https://github.com/Unknown-mj/bgmi-fps-monitor"/>
-      <id>https://github.com/Unknown-mj/bgmi-fps-monitor</id>
-      <updated>2026-10-19T10:28:24.000Z</updated>
-      <summary>FPS counter &amp; stutter monitor for BGMI and PUBG Mobile on Android: accurate frame rate, phone heat, floating overlay (Rust + Shizuku)</summary>
-    </entry>
-    <entry>
-      <title>shaonialife/cardeck</title>
-      <link href="https://github.com/shaonialife/cardeck"/>
-      <id>https://github.com/shaonialife/cardeck</id>
-      <updated>2026-10-20T07:20:09.000Z</updated>
-      <summary>CarDeck — 让 Android 手机扮演 CarPlay 发送端（非官方实验性项目）</summary>
-    </entry>
-    <entry>
-      <title>ankitchanki/LED</title>
-      <link href="https://github.com/ankitchanki/LED"/>
-      <id>https://github.com/ankitchanki/LED</id>
-      <updated>2026-10-19T15:55:57.000Z</updated>
-      <summary>AMOLED notification LED for Android 10+. A glowing ring around your camera cutout, a black always-on screen with app icons, 9 animations, per-app colours, very low battery use. Works on any brand (HyperOS, One UI, ColorOS…), with optional Shizuku/root one-tap setup.</summary>
-    </entry>
-    <entry>
-      <title>seph3421/GhostLock-Raspite</title>
-      <link href="https://github.com/seph3421/GhostLock-Raspite"/>
-      <id>https://github.com/seph3421/GhostLock-Raspite</id>
-      <updated>2026-10-19T04:02:35.000Z</updated>
-      <summary>GhostLock Raspite Android app and Linux root helper for Fire HD 8 12th Gen (KFRAWI).</summary>
-    </entry>
-    <entry>
-      <title>pk1313/flipmirror</title>
-      <link href="https://github.com/pk1313/flipmirror"/>
-      <id>https://github.com/pk1313/flipmirror</id>
-      <updated>2026-10-17T12:59:04.000Z</updated>
-      <summary>Universal 16:9 screen mirroring optimizer for Android (Galaxy Z Flip/Fold, Galaxy S/A, Pixel, etc.). Eliminates black bars on external monitors via Shizuku without PC/root.</summary>
-    </entry>
-    <entry>
-      <title>dung997tb/Dual-app-samsung</title>
-      <link href="https://github.com/dung997tb/Dual-app-samsung"/>
-      <id>https://github.com/dung997tb/Dual-app-samsung</id>
-      <updated>2026-10-18T23:09:22.000Z</updated>
-      <summary>Dual full app in samsung device </summary>
-    </entry>
-    <entry>
-      <title>heiselifu/houtailiuliang</title>
-      <link href="https://github.com/heiselifu/houtailiuliang"/>
-      <id>https://github.com/heiselifu/houtailiuliang</id>
-      <updated>2026-10-18T02:54:24.000Z</updated>
-      <summary></summary>
-    </entry>
-    <entry>
-      <title>Kangmori/Hz120Switch</title>
-      <link href="https://github.com/Kangmori/Hz120Switch"/>
-      <id>https://github.com/Kangmori/Hz120Switch</id>
-      <updated>2026-10-17T11:04:30.000Z</updated>
-      <summary>ColorOS 120Hz switch via Shizuku: quick-settings tile + home-screen shortcut</summary>
-    </entry>
-    <entry>
-      <title>molaugh-angel/FuckETS-For-Android</title>
-      <link href="https://github.com/molaugh-angel/FuckETS-For-Android"/>
-      <id>https://github.com/molaugh-angel/FuckETS-For-Android</id>
-      <updated>2026-10-17T09:33:45.000Z</updated>
-      <summary></summary>
-    </entry>
-    <entry>
-      <title>Vojtem5/Link-Fixer-for-ReVanced-YT</title>
-      <link href="https://github.com/Vojtem5/Link-Fixer-for-ReVanced-YT"/>
-      <id>https://github.com/Vojtem5/Link-Fixer-for-ReVanced-YT</id>
-      <updated>2026-10-17T11:59:53.000Z</updated>
-      <summary></summary>
     </entry>
 </feed>
