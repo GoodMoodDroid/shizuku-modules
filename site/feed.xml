@@ -3,9 +3,121 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-10-21T08:02:44.284Z</updated>
+  <updated>2026-10-22T08:01:11.277Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>andreknieriem/open-headunit</title>
+      <link href="https://github.com/andreknieriem/open-headunit"/>
+      <id>https://github.com/andreknieriem/open-headunit</id>
+      <updated>2026-10-22T06:27:30.000Z</updated>
+      <summary>Headunit App for displaying Android Auto</summary>
+    </entry>
+    <entry>
+      <title>jieapi/AiCode</title>
+      <link href="https://github.com/jieapi/AiCode"/>
+      <id>https://github.com/jieapi/AiCode</id>
+      <updated>2026-10-22T06:36:49.000Z</updated>
+      <summary>在 Android 上运行的 AI 编程 Agent，内置 Linux 终端与代码编辑器，支持 MCP 协议扩展。</summary>
+    </entry>
+    <entry>
+      <title>438417623wq/DSH-Kxxy</title>
+      <link href="https://github.com/438417623wq/DSH-Kxxy"/>
+      <id>https://github.com/438417623wq/DSH-Kxxy</id>
+      <updated>2026-10-21T11:03:20.000Z</updated>
+      <summary>DSH 手机移植，方便手机开发的项目</summary>
+    </entry>
+    <entry>
+      <title>Mirochill/Phone-MCP</title>
+      <link href="https://github.com/Mirochill/Phone-MCP"/>
+      <id>https://github.com/Mirochill/Phone-MCP</id>
+      <updated>2026-10-21T19:28:22.000Z</updated>
+      <summary>Android control for AI agents over MCP: separate displays, app interaction, notifications, files and APK installation. Chat, Work, Codex and HTTP MCP clients.</summary>
+    </entry>
+    <entry>
+      <title>monarchsofchaos004-gif/splitaudio</title>
+      <link href="https://github.com/monarchsofchaos004-gif/splitaudio"/>
+      <id>https://github.com/monarchsofchaos004-gif/splitaudio</id>
+      <updated>2026-10-21T16:03:37.000Z</updated>
+      <summary>Android: keep the music app on Bluetooth, route every other app to the phone speaker (Shizuku, no root) / 藍牙只放音樂，其他 App 走手機喇叭</summary>
+    </entry>
+    <entry>
+      <title>846572691/droidmcp</title>
+      <link href="https://github.com/846572691/droidmcp"/>
+      <id>https://github.com/846572691/droidmcp</id>
+      <updated>2026-10-21T08:55:32.000Z</updated>
+      <summary>MCP server that lets AI assistants read and control an Android device over adb or a local root shell</summary>
+    </entry>
+    <entry>
+      <title>rushiranpise/lsposed-modules-manager</title>
+      <link href="https://github.com/rushiranpise/lsposed-modules-manager"/>
+      <id>https://github.com/rushiranpise/lsposed-modules-manager</id>
+      <updated>2026-10-22T03:45:49.000Z</updated>
+      <summary>An Android client for the Xposed modules</summary>
+    </entry>
+    <entry>
+      <title>santo1993/drainscope</title>
+      <link href="https://github.com/santo1993/drainscope"/>
+      <id>https://github.com/santo1993/drainscope</id>
+      <updated>2026-10-21T09:01:49.000Z</updated>
+      <summary>Find out which app and which hardware part drains your Android battery. Measured with Shizuku, works rootless with usage stats.</summary>
+    </entry>
+    <entry>
+      <title>abduznik/rommdroid-saves</title>
+      <link href="https://github.com/abduznik/rommdroid-saves"/>
+      <id>https://github.com/abduznik/rommdroid-saves</id>
+      <updated>2026-10-21T13:55:39.000Z</updated>
+      <summary>Back up and sync native Android game saves to your self-hosted RomM server using Shizuku. No root required.</summary>
+    </entry>
+    <entry>
+      <title>HusniHeartnet/android-rust-taskmanager</title>
+      <link href="https://github.com/HusniHeartnet/android-rust-taskmanager"/>
+      <id>https://github.com/HusniHeartnet/android-rust-taskmanager</id>
+      <updated>2026-10-21T17:52:35.000Z</updated>
+      <summary>Task manager for Android written in Rust: memory, CPU, temperatures, processes and startup apps</summary>
+    </entry>
+    <entry>
+      <title>jianling17/CoolStream</title>
+      <link href="https://github.com/jianling17/CoolStream"/>
+      <id>https://github.com/jianling17/CoolStream</id>
+      <updated>2026-10-21T15:38:31.000Z</updated>
+      <summary>医学生用 AI 做的：原生 Compose 聊天客户端，50ms 批处理减少 93.6% 无效重绘 | 用 DeepSeek + WorkBuddy 辅助开发Hand-crafted native Android client for DeepSeek · Jetpack Compose · 50ms batching (−93.6% redraws) · Tool-calling agent · Shizuku shell escalation.</summary>
+    </entry>
+    <entry>
+      <title>misakidebugged/Virtual-Xbox-Controller-Android</title>
+      <link href="https://github.com/misakidebugged/Virtual-Xbox-Controller-Android"/>
+      <id>https://github.com/misakidebugged/Virtual-Xbox-Controller-Android</id>
+      <updated>2026-10-21T13:14:45.000Z</updated>
+      <summary>An app that lets you turn your HID/Xinput generic controller as well as steam controllers into a system-wide Xbox 360 controller using Shizuku</summary>
+    </entry>
+    <entry>
+      <title>pkok1099/imgtxd-studio</title>
+      <link href="https://github.com/pkok1099/imgtxd-studio"/>
+      <id>https://github.com/pkok1099/imgtxd-studio</id>
+      <updated>2026-10-22T05:16:22.000Z</updated>
+      <summary>⚡ Modern, high-performance GTA SA/VC/III .IMG archive &amp; .TXD texture tool for Android (Android 12-16) with Shizuku &amp; Material 3</summary>
+    </entry>
+    <entry>
+      <title>ramizarif/ramrom-emu-manager</title>
+      <link href="https://github.com/ramizarif/ramrom-emu-manager"/>
+      <id>https://github.com/ramizarif/ramrom-emu-manager</id>
+      <updated>2026-10-21T16:50:35.000Z</updated>
+      <summary>Sets up an Android handheld for emulation: emulators, frontends, folders, BIOS checks and health, driven by a controller.</summary>
+    </entry>
+    <entry>
+      <title>Sygix/Tsuyu</title>
+      <link href="https://github.com/Sygix/Tsuyu"/>
+      <id>https://github.com/Sygix/Tsuyu</id>
+      <updated>2026-10-21T09:09:07.000Z</updated>
+      <summary>Shizuku-API-compatible privileged service for Android TV, driven with the remote</summary>
+    </entry>
+    <entry>
+      <title>vovaxa55/Monik</title>
+      <link href="https://github.com/vovaxa55/Monik"/>
+      <id>https://github.com/vovaxa55/Monik</id>
+      <updated>2026-10-21T13:44:41.000Z</updated>
+      <summary>Control Android background app behavior via Shizuku: AppOps, Doze whitelist, standby buckets and force-stop. Keeps important apps and notifications alive on aggressive Chinese-market ROMs (ColorOS, HyperOS/MIUI).</summary>
+    </entry>
     <entry>
       <title>superboyyy/HOneClick</title>
       <link href="https://github.com/superboyyy/HOneClick"/>
@@ -17,7 +129,7 @@
       <title>3dhaoxinren/miaomo</title>
       <link href="https://github.com/3dhaoxinren/miaomo"/>
       <id>https://github.com/3dhaoxinren/miaomo</id>
-      <updated>2026-10-21T01:37:57.000Z</updated>
+      <updated>2026-10-22T00:05:27.000Z</updated>
       <summary>喵墨 Miaomo｜华为墨水屏 / 华为墨水瓶（常见误写）：3.98英寸四色 NFC 电子纸照片编辑与刷屏 App，手机内置 NFC + Shizuku，无需 root；支持裁剪、文字、相框、InkSight 四色预览。PolyForm 非商用许可。</summary>
     </entry>
     <entry>
@@ -66,7 +178,7 @@
       <title>lukifer23/SIConnect</title>
       <link href="https://github.com/lukifer23/SIConnect"/>
       <id>https://github.com/lukifer23/SIConnect</id>
-      <updated>2026-10-21T06:56:53.000Z</updated>
+      <updated>2026-10-21T08:49:22.000Z</updated>
       <summary>Native Android device-control and automation platform: lets authorized AI agents operate your own phone over MCP, with an on-device policy engine, approvals, Shizuku-backed shell execution, and deterministic skills.</summary>
     </entry>
     <entry>
@@ -80,21 +192,21 @@
       <title>Clide01/ProjectZenith</title>
       <link href="https://github.com/Clide01/ProjectZenith"/>
       <id>https://github.com/Clide01/ProjectZenith</id>
-      <updated>2026-10-21T07:29:11.000Z</updated>
+      <updated>2026-10-21T09:39:12.000Z</updated>
       <summary>ProjectZenith is an Android gaming optimization utility with performance controls, game presets, adaptive gaming features, device monitoring, and Shizuku-powered system tools.</summary>
     </entry>
     <entry>
       <title>muhib-karim/s23-optimizer</title>
       <link href="https://github.com/muhib-karim/s23-optimizer"/>
       <id>https://github.com/muhib-karim/s23-optimizer</id>
-      <updated>2026-10-17T22:53:12.000Z</updated>
+      <updated>2026-10-22T05:51:35.000Z</updated>
       <summary>S23 Optimizer: no-root, no-PC battery and speed optimizer for Galaxy S23 Ultra (Shizuku)</summary>
     </entry>
     <entry>
       <title>ankitchanki/StashDrop</title>
       <link href="https://github.com/ankitchanki/StashDrop"/>
       <id>https://github.com/ankitchanki/StashDrop</id>
-      <updated>2026-10-20T19:01:22.000Z</updated>
+      <updated>2026-10-21T08:27:52.000Z</updated>
       <summary>Catch something useful without losing your place. Share a link into your shelf, save a note, circle part of the screen, extract text, and send a selection back to another app. A thumb-friendly floating dock keeps the shelf nearby</summary>
     </entry>
     <entry>
@@ -103,117 +215,5 @@
       <id>https://github.com/eqbirvin/T2EToolbox</id>
       <updated>2026-10-21T00:52:33.000Z</updated>
       <summary>Utility toolbox for the Unihertz Titan 2 Elite (Display Fix, Unified Pull-Down, Volume Mode Switcher, and Flashlight Indicator)</summary>
-    </entry>
-    <entry>
-      <title>FaaRamadhann/GameCore-BuiltIn</title>
-      <link href="https://github.com/FaaRamadhann/GameCore-BuiltIn"/>
-      <id>https://github.com/FaaRamadhann/GameCore-BuiltIn</id>
-      <updated>2026-10-19T12:20:41.000Z</updated>
-      <summary>Non-root Android game booster built on Shizuku: reversible app freeze, crash-safe recovery, floating overlay. No root/Magisk required.</summary>
-    </entry>
-    <entry>
-      <title>Fordel225/XRDS-RearCanvas-Studio</title>
-      <link href="https://github.com/Fordel225/XRDS-RearCanvas-Studio"/>
-      <id>https://github.com/Fordel225/XRDS-RearCanvas-Studio</id>
-      <updated>2026-10-19T11:58:16.000Z</updated>
-      <summary>XRDS RearCanvas Studio — second-screen launcher, Android apps and HTML widgets for Xiaomi 17 Pro / Pro Max. Лаунчер, приложения и виджеты для заднего экрана Xiaomi на HyperOS. Android 16 + Shizuku. APK, source and setup.</summary>
-    </entry>
-    <entry>
-      <title>HomuHomu833/RbxFPS</title>
-      <link href="https://github.com/HomuHomu833/RbxFPS"/>
-      <id>https://github.com/HomuHomu833/RbxFPS</id>
-      <updated>2026-10-19T14:43:27.000Z</updated>
-      <summary>A basic Roblox FPS Unlocker for Android</summary>
-    </entry>
-    <entry>
-      <title>Napreth/Set-for-U</title>
-      <link href="https://github.com/Napreth/Set-for-U"/>
-      <id>https://github.com/Napreth/Set-for-U</id>
-      <updated>2026-10-20T05:36:00.000Z</updated>
-      <summary>A cross-platform Android settings manager with ADB, Shizuku, and root support.</summary>
-    </entry>
-    <entry>
-      <title>qsnddayst/dsh-android</title>
-      <link href="https://github.com/qsnddayst/dsh-android"/>
-      <id>https://github.com/qsnddayst/dsh-android</id>
-      <updated>2026-10-19T14:38:34.000Z</updated>
-      <summary>DeepSeek Harness 安卓版：自研 Kotlin 壳 + 内嵌 ARM64 运行时 + WebView UI，含 PTY 终端与 Shizuku/无障碍设备控制（无需 root）</summary>
-    </entry>
-    <entry>
-      <title>xTudoS/dual-audio</title>
-      <link href="https://github.com/xTudoS/dual-audio"/>
-      <id>https://github.com/xTudoS/dual-audio</id>
-      <updated>2026-10-19T09:14:08.000Z</updated>
-      <summary>Play Android audio on USB and Bluetooth headphones at the same time. No root, uses Shizuku.</summary>
-    </entry>
-    <entry>
-      <title>WEIHEWU/shizuku-sam</title>
-      <link href="https://github.com/WEIHEWU/shizuku-sam"/>
-      <id>https://github.com/WEIHEWU/shizuku-sam</id>
-      <updated>2026-10-18T04:28:16.000Z</updated>
-      <summary>Samsung One UI 8.5 Enhanced Shizuku &amp; System Tuning Suite</summary>
-    </entry>
-    <entry>
-      <title>rayenghanmi/RyTuneX-Android</title>
-      <link href="https://github.com/rayenghanmi/RyTuneX-Android"/>
-      <id>https://github.com/rayenghanmi/RyTuneX-Android</id>
-      <updated>2026-10-20T15:25:54.000Z</updated>
-      <summary>RyTuneX for Android is a stateless system tuning and debloat engine built with Kotlin and Jetpack Compose, powered by Shizuku (ADB UID 2000) with zero background daemons.</summary>
-    </entry>
-    <entry>
-      <title>starlightjulie/TwinnDroid</title>
-      <link href="https://github.com/starlightjulie/TwinnDroid"/>
-      <id>https://github.com/starlightjulie/TwinnDroid</id>
-      <updated>2026-10-20T03:04:16.000Z</updated>
-      <summary>Run multiple copies of any Android app with separate logins. No root. Clone apps with custom names, icons and permissions, extract APKs, and theme it your way.</summary>
-    </entry>
-    <entry>
-      <title>chardxDev/FastStrap</title>
-      <link href="https://github.com/chardxDev/FastStrap"/>
-      <id>https://github.com/chardxDev/FastStrap</id>
-      <updated>2026-10-18T23:48:14.000Z</updated>
-      <summary>Roblox FFlags editor for Android powered by Shizuku</summary>
-    </entry>
-    <entry>
-      <title>fun7772ei/OneTools</title>
-      <link href="https://github.com/fun7772ei/OneTools"/>
-      <id>https://github.com/fun7772ei/OneTools</id>
-      <updated>2026-10-18T13:00:36.000Z</updated>
-      <summary>Samsung Galaxy向け非公式Androidツール。Kotlin / Jetpack Compose製のソースコードと署名済みAPKを公開。</summary>
-    </entry>
-    <entry>
-      <title>A-124/hyperboost-engine-pro</title>
-      <link href="https://github.com/A-124/hyperboost-engine-pro"/>
-      <id>https://github.com/A-124/hyperboost-engine-pro</id>
-      <updated>2026-10-21T07:52:39.000Z</updated>
-      <summary>Rootless Android performance booster for gamers: one-tap Master Turbo, live FPS HUD, crosshair overlay and per-game profiles via Shizuku.</summary>
-    </entry>
-    <entry>
-      <title>rjkyker383-gif/shizuku-ai-action-broker</title>
-      <link href="https://github.com/rjkyker383-gif/shizuku-ai-action-broker"/>
-      <id>https://github.com/rjkyker383-gif/shizuku-ai-action-broker</id>
-      <updated>2026-10-19T07:44:17.000Z</updated>
-      <summary>Permissioned AI-to-Shizuku action broker for Android, enabling chatbots to request elevated device actions through structured commands, explicit user confirmation, and a strict allow-list</summary>
-    </entry>
-    <entry>
-      <title>haintrainn/grapheneos-firewall-app</title>
-      <link href="https://github.com/haintrainn/grapheneos-firewall-app"/>
-      <id>https://github.com/haintrainn/grapheneos-firewall-app</id>
-      <updated>2026-10-19T06:45:20.000Z</updated>
-      <summary>Unofficial per-app firewall for GrapheneOS that toggles the built-in Network permission via Shizuku. No VPN, no network access of its own.</summary>
-    </entry>
-    <entry>
-      <title>isac12345/starshore</title>
-      <link href="https://github.com/isac12345/starshore"/>
-      <id>https://github.com/isac12345/starshore</id>
-      <updated>2026-10-18T07:29:40.000Z</updated>
-      <summary>Phone cleaner and video compressor for Android. No internet permission, no ads.</summary>
-    </entry>
-    <entry>
-      <title>saikiran9185/BudsFirst</title>
-      <link href="https://github.com/saikiran9185/BudsFirst"/>
-      <id>https://github.com/saikiran9185/BudsFirst</id>
-      <updated>2026-10-18T16:41:27.000Z</updated>
-      <summary>Stop Android from moving your music and calls to every Bluetooth device that connects. Rank your devices; the rest stay connected on standby.</summary>
     </entry>
 </feed>
