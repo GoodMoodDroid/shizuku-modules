@@ -3,22 +3,78 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-10-22T08:01:11.277Z</updated>
+  <updated>2026-10-23T07:59:42.347Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>WSK-build/DSHBox</title>
+      <link href="https://github.com/WSK-build/DSHBox"/>
+      <id>https://github.com/WSK-build/DSHBox</id>
+      <updated>2026-10-18T18:08:16.000Z</updated>
+      <summary>DSHBox —  Run DeepSeek Harness locally on Android phones and tablets. It integrates and coordinates DSH, PRoot, WebView, Debian and Node.js, together with a terminal, a file manager，a browser and other tools, into a personal AI workbench. No root access, and no separate Termux installation.</summary>
+    </entry>
+    <entry>
+      <title>Order52/shizuku-termux</title>
+      <link href="https://github.com/Order52/shizuku-termux"/>
+      <id>https://github.com/Order52/shizuku-termux</id>
+      <updated>2026-10-23T07:04:29.000Z</updated>
+      <summary>Start Shizuku without a PC: one command in Termux or one tap in a 17 KB app. Wireless debugging, adb tcpip or root. Works on Huawei/EMUI too.</summary>
+    </entry>
+    <entry>
+      <title>zhixiang-luo/xiaozhu-dashou</title>
+      <link href="https://github.com/zhixiang-luo/xiaozhu-dashou"/>
+      <id>https://github.com/zhixiang-luo/xiaozhu-dashou</id>
+      <updated>2026-10-23T06:21:21.000Z</updated>
+      <summary>小猪搭手：你开口，我来做。Android 上听得懂自然语言、看得见屏幕、能动手完成任务的个人 Agent。</summary>
+    </entry>
+    <entry>
+      <title>0year/dsh-status-hud</title>
+      <link href="https://github.com/0year/dsh-status-hud"/>
+      <id>https://github.com/0year/dsh-status-hud</id>
+      <updated>2026-10-23T06:58:33.000Z</updated>
+      <summary>DSH 状态条：把 DSH agent 的实时进展显示在 Android 状态栏的滚动条上（手机端用 DSHBox 时随时看到后台在做什么）。Android overlay + Shizuku + DSH 自动推送插件。</summary>
+    </entry>
+    <entry>
+      <title>Hinduc0der/voice-sip-agent-selfhost</title>
+      <link href="https://github.com/Hinduc0der/voice-sip-agent-selfhost"/>
+      <id>https://github.com/Hinduc0der/voice-sip-agent-selfhost</id>
+      <updated>2026-10-23T07:00:11.000Z</updated>
+      <summary>A &quot;device-in-itself&quot; phone gateway (fork): incoming calls and SMS from a home SIM reach you over the internet. No root (Android 13+, Shizuku), built-in SIP registrar, password-protected.</summary>
+    </entry>
+    <entry>
+      <title>iQSOO/qo-direct-charge</title>
+      <link href="https://github.com/iQSOO/qo-direct-charge"/>
+      <id>https://github.com/iQSOO/qo-direct-charge</id>
+      <updated>2026-10-23T06:15:47.000Z</updated>
+      <summary>新好友开发 · iQSOO（iqsoo.com）发起并开源发布。面向 iQOO Neo11 / Android 16 的原生直驱自动化工具，支持横屏、应用与息屏规则，基于 Shizuku，无需 Root。</summary>
+    </entry>
+    <entry>
+      <title>ricardojrgpimentel/cachalote</title>
+      <link href="https://github.com/ricardojrgpimentel/cachalote"/>
+      <id>https://github.com/ricardojrgpimentel/cachalote</id>
+      <updated>2026-10-22T14:38:49.000Z</updated>
+      <summary>DeepSeek Harness a correr no telemovel: app Android nativa (root, Shizuku ou embutido)</summary>
+    </entry>
     <entry>
       <title>andreknieriem/open-headunit</title>
       <link href="https://github.com/andreknieriem/open-headunit"/>
       <id>https://github.com/andreknieriem/open-headunit</id>
-      <updated>2026-10-22T06:27:30.000Z</updated>
+      <updated>2026-10-23T05:49:39.000Z</updated>
       <summary>Headunit App for displaying Android Auto</summary>
     </entry>
     <entry>
       <title>jieapi/AiCode</title>
       <link href="https://github.com/jieapi/AiCode"/>
       <id>https://github.com/jieapi/AiCode</id>
-      <updated>2026-10-22T06:36:49.000Z</updated>
+      <updated>2026-10-22T09:33:03.000Z</updated>
       <summary>在 Android 上运行的 AI 编程 Agent，内置 Linux 终端与代码编辑器，支持 MCP 协议扩展。</summary>
+    </entry>
+    <entry>
+      <title>rushiranpise/lsposed-modules-manager</title>
+      <link href="https://github.com/rushiranpise/lsposed-modules-manager"/>
+      <id>https://github.com/rushiranpise/lsposed-modules-manager</id>
+      <updated>2026-10-23T03:38:01.000Z</updated>
+      <summary>An Android client for the Xposed modules</summary>
     </entry>
     <entry>
       <title>438417623wq/DSH-Kxxy</title>
@@ -38,7 +94,7 @@
       <title>monarchsofchaos004-gif/splitaudio</title>
       <link href="https://github.com/monarchsofchaos004-gif/splitaudio"/>
       <id>https://github.com/monarchsofchaos004-gif/splitaudio</id>
-      <updated>2026-10-21T16:03:37.000Z</updated>
+      <updated>2026-10-23T03:36:53.000Z</updated>
       <summary>Android: keep the music app on Bluetooth, route every other app to the phone speaker (Shizuku, no root) / 藍牙只放音樂，其他 App 走手機喇叭</summary>
     </entry>
     <entry>
@@ -49,18 +105,18 @@
       <summary>MCP server that lets AI assistants read and control an Android device over adb or a local root shell</summary>
     </entry>
     <entry>
-      <title>rushiranpise/lsposed-modules-manager</title>
-      <link href="https://github.com/rushiranpise/lsposed-modules-manager"/>
-      <id>https://github.com/rushiranpise/lsposed-modules-manager</id>
-      <updated>2026-10-22T03:45:49.000Z</updated>
-      <summary>An Android client for the Xposed modules</summary>
-    </entry>
-    <entry>
       <title>santo1993/drainscope</title>
       <link href="https://github.com/santo1993/drainscope"/>
       <id>https://github.com/santo1993/drainscope</id>
       <updated>2026-10-21T09:01:49.000Z</updated>
       <summary>Find out which app and which hardware part drains your Android battery. Measured with Shizuku, works rootless with usage stats.</summary>
+    </entry>
+    <entry>
+      <title>vovaxa55/Monik</title>
+      <link href="https://github.com/vovaxa55/Monik"/>
+      <id>https://github.com/vovaxa55/Monik</id>
+      <updated>2026-10-21T13:44:41.000Z</updated>
+      <summary>Control Android background app behavior via Shizuku: AppOps, Doze whitelist, standby buckets and force-stop. Keeps important apps and notifications alive on aggressive Chinese-market ROMs (ColorOS, HyperOS/MIUI).</summary>
     </entry>
     <entry>
       <title>abduznik/rommdroid-saves</title>
@@ -80,7 +136,7 @@
       <title>jianling17/CoolStream</title>
       <link href="https://github.com/jianling17/CoolStream"/>
       <id>https://github.com/jianling17/CoolStream</id>
-      <updated>2026-10-21T15:38:31.000Z</updated>
+      <updated>2026-10-22T15:31:36.000Z</updated>
       <summary>医学生用 AI 做的：原生 Compose 聊天客户端，50ms 批处理减少 93.6% 无效重绘 | 用 DeepSeek + WorkBuddy 辅助开发Hand-crafted native Android client for DeepSeek · Jetpack Compose · 50ms batching (−93.6% redraws) · Tool-calling agent · Shizuku shell escalation.</summary>
     </entry>
     <entry>
@@ -110,13 +166,6 @@
       <id>https://github.com/Sygix/Tsuyu</id>
       <updated>2026-10-21T09:09:07.000Z</updated>
       <summary>Shizuku-API-compatible privileged service for Android TV, driven with the remote</summary>
-    </entry>
-    <entry>
-      <title>vovaxa55/Monik</title>
-      <link href="https://github.com/vovaxa55/Monik"/>
-      <id>https://github.com/vovaxa55/Monik</id>
-      <updated>2026-10-21T13:44:41.000Z</updated>
-      <summary>Control Android background app behavior via Shizuku: AppOps, Doze whitelist, standby buckets and force-stop. Keeps important apps and notifications alive on aggressive Chinese-market ROMs (ColorOS, HyperOS/MIUI).</summary>
     </entry>
     <entry>
       <title>superboyyy/HOneClick</title>
@@ -157,7 +206,7 @@
       <title>dmyn1993/pebble-screen-mirror</title>
       <link href="https://github.com/dmyn1993/pebble-screen-mirror"/>
       <id>https://github.com/dmyn1993/pebble-screen-mirror</id>
-      <updated>2026-10-20T11:06:59.000Z</updated>
+      <updated>2026-10-22T13:07:27.000Z</updated>
       <summary>Mirror an Android phone screen to Pebble Time 2 and control the phone from the watch.</summary>
     </entry>
     <entry>
@@ -166,54 +215,5 @@
       <id>https://github.com/Fq77/QiNoteAPP</id>
       <updated>2026-10-21T06:02:35.000Z</updated>
       <summary>奇记 QiNote — AI 对话式记账 Android 应用（Kotlin + Jetpack Compose + Room + HyperOS 超级岛）</summary>
-    </entry>
-    <entry>
-      <title>gufarina/tapanchor</title>
-      <link href="https://github.com/gufarina/tapanchor"/>
-      <id>https://github.com/gufarina/tapanchor</id>
-      <updated>2026-10-20T20:02:28.000Z</updated>
-      <summary>Android app that turns a Bluetooth/USB HID button into one real tap at a fixed screen point. Shizuku, no root.</summary>
-    </entry>
-    <entry>
-      <title>lukifer23/SIConnect</title>
-      <link href="https://github.com/lukifer23/SIConnect"/>
-      <id>https://github.com/lukifer23/SIConnect</id>
-      <updated>2026-10-21T08:49:22.000Z</updated>
-      <summary>Native Android device-control and automation platform: lets authorized AI agents operate your own phone over MCP, with an on-device policy engine, approvals, Shizuku-backed shell execution, and deterministic skills.</summary>
-    </entry>
-    <entry>
-      <title>Yixuan-Tao/agent-next</title>
-      <link href="https://github.com/Yixuan-Tao/agent-next"/>
-      <id>https://github.com/Yixuan-Tao/agent-next</id>
-      <updated>2026-10-21T01:45:39.000Z</updated>
-      <summary>Android 手机 Agent 原型：用户继续正常用手机时，Agent 在私有虚拟屏操作真实 App，不抢前台、焦点和输入法；无 Root，仅需 Shizuku。</summary>
-    </entry>
-    <entry>
-      <title>Clide01/ProjectZenith</title>
-      <link href="https://github.com/Clide01/ProjectZenith"/>
-      <id>https://github.com/Clide01/ProjectZenith</id>
-      <updated>2026-10-21T09:39:12.000Z</updated>
-      <summary>ProjectZenith is an Android gaming optimization utility with performance controls, game presets, adaptive gaming features, device monitoring, and Shizuku-powered system tools.</summary>
-    </entry>
-    <entry>
-      <title>muhib-karim/s23-optimizer</title>
-      <link href="https://github.com/muhib-karim/s23-optimizer"/>
-      <id>https://github.com/muhib-karim/s23-optimizer</id>
-      <updated>2026-10-22T05:51:35.000Z</updated>
-      <summary>S23 Optimizer: no-root, no-PC battery and speed optimizer for Galaxy S23 Ultra (Shizuku)</summary>
-    </entry>
-    <entry>
-      <title>ankitchanki/StashDrop</title>
-      <link href="https://github.com/ankitchanki/StashDrop"/>
-      <id>https://github.com/ankitchanki/StashDrop</id>
-      <updated>2026-10-21T08:27:52.000Z</updated>
-      <summary>Catch something useful without losing your place. Share a link into your shelf, save a note, circle part of the screen, extract text, and send a selection back to another app. A thumb-friendly floating dock keeps the shelf nearby</summary>
-    </entry>
-    <entry>
-      <title>eqbirvin/T2EToolbox</title>
-      <link href="https://github.com/eqbirvin/T2EToolbox"/>
-      <id>https://github.com/eqbirvin/T2EToolbox</id>
-      <updated>2026-10-21T00:52:33.000Z</updated>
-      <summary>Utility toolbox for the Unihertz Titan 2 Elite (Display Fix, Unified Pull-Down, Volume Mode Switcher, and Flashlight Indicator)</summary>
     </entry>
 </feed>
