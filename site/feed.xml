@@ -3,9 +3,37 @@
   <title>Shizuku Apps Directory — New Apps</title>
   <link href="https://rushiranpise.github.io/shizuku-modules/"/>
   <link href="https://rushiranpise.github.io/shizuku-modules/feed.xml" rel="self"/>
-  <updated>2026-10-23T07:59:42.347Z</updated>
+  <updated>2026-10-24T07:39:18.958Z</updated>
   <id>https://rushiranpise.github.io/shizuku-modules/</id>
   <subtitle>Newly discovered Android apps that use Shizuku</subtitle>
+    <entry>
+      <title>Ghostpanter/ghost-files</title>
+      <link href="https://github.com/Ghostpanter/ghost-files"/>
+      <id>https://github.com/Ghostpanter/ghost-files</id>
+      <updated>2026-10-22T08:19:34.000Z</updated>
+      <summary>Android dual-pane file manager (MT/MiXplorer style): root/Shizuku, SMB/FTP/SFTP/WebDAV with a stall-proof resumable transfer queue</summary>
+    </entry>
+    <entry>
+      <title>Order52/tinykit</title>
+      <link href="https://github.com/Order52/tinykit"/>
+      <id>https://github.com/Order52/tinykit</id>
+      <updated>2026-10-23T16:55:52.000Z</updated>
+      <summary>Small but useful Android tweaks in one clean menu, powered by Shizuku. No root, 34 KB, nothing in the background.</summary>
+    </entry>
+    <entry>
+      <title>coldMEW/Hush</title>
+      <link href="https://github.com/coldMEW/Hush"/>
+      <id>https://github.com/coldMEW/Hush</id>
+      <updated>2026-10-24T04:16:32.000Z</updated>
+      <summary>Ad-free listening for Spotify on Android: skips ad breaks without root or a modified Spotify app.</summary>
+    </entry>
+    <entry>
+      <title>ankitchanki/CTS</title>
+      <link href="https://github.com/ankitchanki/CTS"/>
+      <id>https://github.com/ankitchanki/CTS</id>
+      <updated>2026-10-23T17:58:40.000Z</updated>
+      <summary>Trigger Circle to Search on Android 9–16, using Shizuku instead of an LSPosed module. It also adds a Pixel-style diagonal corner swipe gesture</summary>
+    </entry>
     <entry>
       <title>WSK-build/DSHBox</title>
       <link href="https://github.com/WSK-build/DSHBox"/>
@@ -17,15 +45,22 @@
       <title>Order52/shizuku-termux</title>
       <link href="https://github.com/Order52/shizuku-termux"/>
       <id>https://github.com/Order52/shizuku-termux</id>
-      <updated>2026-10-23T07:04:29.000Z</updated>
+      <updated>2026-10-23T12:08:44.000Z</updated>
       <summary>Start Shizuku without a PC: one command in Termux or one tap in a 17 KB app. Wireless debugging, adb tcpip or root. Works on Huawei/EMUI too.</summary>
     </entry>
     <entry>
       <title>zhixiang-luo/xiaozhu-dashou</title>
       <link href="https://github.com/zhixiang-luo/xiaozhu-dashou"/>
       <id>https://github.com/zhixiang-luo/xiaozhu-dashou</id>
-      <updated>2026-10-23T06:21:21.000Z</updated>
+      <updated>2026-10-23T08:22:01.000Z</updated>
       <summary>小猪搭手：你开口，我来做。Android 上听得懂自然语言、看得见屏幕、能动手完成任务的个人 Agent。</summary>
+    </entry>
+    <entry>
+      <title>Hinduc0der/voice-sip-agent-selfhost</title>
+      <link href="https://github.com/Hinduc0der/voice-sip-agent-selfhost"/>
+      <id>https://github.com/Hinduc0der/voice-sip-agent-selfhost</id>
+      <updated>2026-10-23T09:34:30.000Z</updated>
+      <summary>A &quot;device-in-itself&quot; phone gateway (fork): incoming calls and SMS from a home SIM reach you over the internet. No root (Android 13+, Shizuku), built-in SIP registrar, password-protected.</summary>
     </entry>
     <entry>
       <title>0year/dsh-status-hud</title>
@@ -33,13 +68,6 @@
       <id>https://github.com/0year/dsh-status-hud</id>
       <updated>2026-10-23T06:58:33.000Z</updated>
       <summary>DSH 状态条：把 DSH agent 的实时进展显示在 Android 状态栏的滚动条上（手机端用 DSHBox 时随时看到后台在做什么）。Android overlay + Shizuku + DSH 自动推送插件。</summary>
-    </entry>
-    <entry>
-      <title>Hinduc0der/voice-sip-agent-selfhost</title>
-      <link href="https://github.com/Hinduc0der/voice-sip-agent-selfhost"/>
-      <id>https://github.com/Hinduc0der/voice-sip-agent-selfhost</id>
-      <updated>2026-10-23T07:00:11.000Z</updated>
-      <summary>A &quot;device-in-itself&quot; phone gateway (fork): incoming calls and SMS from a home SIM reach you over the internet. No root (Android 13+, Shizuku), built-in SIP registrar, password-protected.</summary>
     </entry>
     <entry>
       <title>iQSOO/qo-direct-charge</title>
@@ -59,14 +87,14 @@
       <title>andreknieriem/open-headunit</title>
       <link href="https://github.com/andreknieriem/open-headunit"/>
       <id>https://github.com/andreknieriem/open-headunit</id>
-      <updated>2026-10-23T05:49:39.000Z</updated>
+      <updated>2026-10-23T15:01:56.000Z</updated>
       <summary>Headunit App for displaying Android Auto</summary>
     </entry>
     <entry>
       <title>jieapi/AiCode</title>
       <link href="https://github.com/jieapi/AiCode"/>
       <id>https://github.com/jieapi/AiCode</id>
-      <updated>2026-10-22T09:33:03.000Z</updated>
+      <updated>2026-10-23T08:59:07.000Z</updated>
       <summary>在 Android 上运行的 AI 编程 Agent，内置 Linux 终端与代码编辑器，支持 MCP 协议扩展。</summary>
     </entry>
     <entry>
@@ -80,8 +108,15 @@
       <title>438417623wq/DSH-Kxxy</title>
       <link href="https://github.com/438417623wq/DSH-Kxxy"/>
       <id>https://github.com/438417623wq/DSH-Kxxy</id>
-      <updated>2026-10-21T11:03:20.000Z</updated>
+      <updated>2026-10-23T16:41:34.000Z</updated>
       <summary>DSH 手机移植，方便手机开发的项目</summary>
+    </entry>
+    <entry>
+      <title>monarchsofchaos004-gif/splitaudio</title>
+      <link href="https://github.com/monarchsofchaos004-gif/splitaudio"/>
+      <id>https://github.com/monarchsofchaos004-gif/splitaudio</id>
+      <updated>2026-10-24T01:52:34.000Z</updated>
+      <summary>Android: keep the music app on Bluetooth, route every other app to the phone speaker (Shizuku, no root) / 藍牙只放音樂，其他 App 走手機喇叭</summary>
     </entry>
     <entry>
       <title>Mirochill/Phone-MCP</title>
@@ -91,11 +126,11 @@
       <summary>Android control for AI agents over MCP: separate displays, app interaction, notifications, files and APK installation. Chat, Work, Codex and HTTP MCP clients.</summary>
     </entry>
     <entry>
-      <title>monarchsofchaos004-gif/splitaudio</title>
-      <link href="https://github.com/monarchsofchaos004-gif/splitaudio"/>
-      <id>https://github.com/monarchsofchaos004-gif/splitaudio</id>
-      <updated>2026-10-23T03:36:53.000Z</updated>
-      <summary>Android: keep the music app on Bluetooth, route every other app to the phone speaker (Shizuku, no root) / 藍牙只放音樂，其他 App 走手機喇叭</summary>
+      <title>santo1993/drainscope</title>
+      <link href="https://github.com/santo1993/drainscope"/>
+      <id>https://github.com/santo1993/drainscope</id>
+      <updated>2026-10-21T09:01:49.000Z</updated>
+      <summary>Find out which app and which hardware part drains your Android battery. Measured with Shizuku, works rootless with usage stats.</summary>
     </entry>
     <entry>
       <title>846572691/droidmcp</title>
@@ -105,11 +140,11 @@
       <summary>MCP server that lets AI assistants read and control an Android device over adb or a local root shell</summary>
     </entry>
     <entry>
-      <title>santo1993/drainscope</title>
-      <link href="https://github.com/santo1993/drainscope"/>
-      <id>https://github.com/santo1993/drainscope</id>
-      <updated>2026-10-21T09:01:49.000Z</updated>
-      <summary>Find out which app and which hardware part drains your Android battery. Measured with Shizuku, works rootless with usage stats.</summary>
+      <title>misakidebugged/Virtual-Xbox-Controller-Android</title>
+      <link href="https://github.com/misakidebugged/Virtual-Xbox-Controller-Android"/>
+      <id>https://github.com/misakidebugged/Virtual-Xbox-Controller-Android</id>
+      <updated>2026-10-21T13:14:45.000Z</updated>
+      <summary>An app that lets you turn your HID/Xinput generic controller as well as steam controllers into a system-wide Xbox 360 controller using Shizuku</summary>
     </entry>
     <entry>
       <title>vovaxa55/Monik</title>
@@ -136,21 +171,14 @@
       <title>jianling17/CoolStream</title>
       <link href="https://github.com/jianling17/CoolStream"/>
       <id>https://github.com/jianling17/CoolStream</id>
-      <updated>2026-10-22T15:31:36.000Z</updated>
+      <updated>2026-10-23T15:07:28.000Z</updated>
       <summary>医学生用 AI 做的：原生 Compose 聊天客户端，50ms 批处理减少 93.6% 无效重绘 | 用 DeepSeek + WorkBuddy 辅助开发Hand-crafted native Android client for DeepSeek · Jetpack Compose · 50ms batching (−93.6% redraws) · Tool-calling agent · Shizuku shell escalation.</summary>
-    </entry>
-    <entry>
-      <title>misakidebugged/Virtual-Xbox-Controller-Android</title>
-      <link href="https://github.com/misakidebugged/Virtual-Xbox-Controller-Android"/>
-      <id>https://github.com/misakidebugged/Virtual-Xbox-Controller-Android</id>
-      <updated>2026-10-21T13:14:45.000Z</updated>
-      <summary>An app that lets you turn your HID/Xinput generic controller as well as steam controllers into a system-wide Xbox 360 controller using Shizuku</summary>
     </entry>
     <entry>
       <title>pkok1099/imgtxd-studio</title>
       <link href="https://github.com/pkok1099/imgtxd-studio"/>
       <id>https://github.com/pkok1099/imgtxd-studio</id>
-      <updated>2026-10-22T05:16:22.000Z</updated>
+      <updated>2026-10-24T04:30:24.000Z</updated>
       <summary>⚡ Modern, high-performance GTA SA/VC/III .IMG archive &amp; .TXD texture tool for Android (Android 12-16) with Shizuku &amp; Material 3</summary>
     </entry>
     <entry>
@@ -178,7 +206,7 @@
       <title>3dhaoxinren/miaomo</title>
       <link href="https://github.com/3dhaoxinren/miaomo"/>
       <id>https://github.com/3dhaoxinren/miaomo</id>
-      <updated>2026-10-22T00:05:27.000Z</updated>
+      <updated>2026-10-24T06:16:20.000Z</updated>
       <summary>喵墨 Miaomo｜华为墨水屏 / 华为墨水瓶（常见误写）：3.98英寸四色 NFC 电子纸照片编辑与刷屏 App，手机内置 NFC + Shizuku，无需 root；支持裁剪、文字、相框、InkSight 四色预览。PolyForm 非商用许可。</summary>
     </entry>
     <entry>
@@ -187,33 +215,5 @@
       <id>https://github.com/AnoY606-git/SplitBox</id>
       <updated>2026-10-20T13:04:18.000Z</updated>
       <summary>Устанавливайте APK, APKS, XAPK и APKM на Android 14+. Удобный выбор частей, Root и Shizuku — без рекламы и аккаунтов.</summary>
-    </entry>
-    <entry>
-      <title>b0r1s-69/ghostlock-x6840</title>
-      <link href="https://github.com/b0r1s-69/ghostlock-x6840"/>
-      <id>https://github.com/b0r1s-69/ghostlock-x6840</id>
-      <updated>2026-10-20T11:48:18.000Z</updated>
-      <summary>GhostLock port for the Infinix Smart 20 (X6840): kernel profile, W3 seccomp analysis, and Shizuku + BakaSU root notes.</summary>
-    </entry>
-    <entry>
-      <title>DeclanJeon/Call_Record</title>
-      <link href="https://github.com/DeclanJeon/Call_Record"/>
-      <id>https://github.com/DeclanJeon/Call_Record</id>
-      <updated>2026-10-21T04:50:17.000Z</updated>
-      <summary>Call_Record — 무료 오픈소스 안드로이드 자동 통화 녹음 앱 (양방향 녹음 · 고지음 · 통화 내용 전사 · Google Drive 백업). ShizuCallRecorder 기반.</summary>
-    </entry>
-    <entry>
-      <title>dmyn1993/pebble-screen-mirror</title>
-      <link href="https://github.com/dmyn1993/pebble-screen-mirror"/>
-      <id>https://github.com/dmyn1993/pebble-screen-mirror</id>
-      <updated>2026-10-22T13:07:27.000Z</updated>
-      <summary>Mirror an Android phone screen to Pebble Time 2 and control the phone from the watch.</summary>
-    </entry>
-    <entry>
-      <title>Fq77/QiNoteAPP</title>
-      <link href="https://github.com/Fq77/QiNoteAPP"/>
-      <id>https://github.com/Fq77/QiNoteAPP</id>
-      <updated>2026-10-21T06:02:35.000Z</updated>
-      <summary>奇记 QiNote — AI 对话式记账 Android 应用（Kotlin + Jetpack Compose + Room + HyperOS 超级岛）</summary>
     </entry>
 </feed>
