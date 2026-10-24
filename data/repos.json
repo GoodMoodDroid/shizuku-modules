@@ -48465,6 +48465,37 @@
     "release_fetched_at": "2026-10-24T07:38:22.560Z"
   },
   {
+    "full_name": "GMD Gestures",
+    "html_url": "https://play.google.com/store/apps/details?id=com.goodmooddroid.gestures",
+    "description": "Create system-wide multitouch and custom-drawn gestures anywhere on the screen to navigate, launch apps and shortcuts, or control device settings.",
+    "homepage": "https://play.google.com/store/apps/details?id=com.goodmooddroid.gestures",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "",
+    "topics": [],
+    "archived": false,
+    "owner": {
+      "login": "GMD Gestures",
+      "avatar_url": ""
+    },
+    "created_at": "",
+    "updated_at": "",
+    "pushed_at": "",
+    "verified": true,
+    "marker": "awesome-shizuku",
+    "category": "Customization",
+    "source": "awesome-shizuku-closed-source",
+    "awesome_source": [
+      "awesome-shizuku-closed-source"
+    ],
+    "license": "Proprietary",
+    "isPaid": true,
+    "added_at": "2026-10-24T21:19:41.000Z",
+    "last_seen": "2026-10-24T21:19:41.000Z",
+    "release": null,
+    "release_fetched_at": "2026-10-24T21:19:41.000Z"
+  },
+  {
     "full_name": "goodrenlibai/shizuku-aurora",
     "html_url": "https://github.com/goodrenlibai/shizuku-aurora",
     "description": "Shizuku Aurora — 3A upgrade of Shizuku (system API bridge) with CI",
